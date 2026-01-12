@@ -186,6 +186,36 @@
         .section-title:first-child {
             margin-top: 0;
         }
+
+        .mobile-badges {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+            margin-top: 8px;
+        }
+
+        .mobile-badge {
+            padding: 3px 8px;
+            border-radius: 12px;
+            font-size: 0.7rem;
+            font-weight: 500;
+            color: white;
+        }
+
+        .badge-perfect {
+            background-color: #ef4444;
+            /* Red */
+        }
+
+        .badge-partial {
+            background-color: #3b82f6;
+            /* Blue */
+        }
+
+        .badge-none {
+            background-color: #4b5563;
+            /* Gray */
+        }
     </style>
 </head>
 
@@ -251,7 +281,7 @@
             // Filter models (limit to 10)
             const matches = mobileModels.filter(model =>
                 model.toUpperCase().includes(value)
-            ).slice(0, 10);
+            ).slice(0, 100);
 
             if (matches.length > 0) {
                 suggestionsDiv.innerHTML = matches.map(model =>
@@ -324,18 +354,39 @@
 
             // Helper to render a list of products
             const renderList = (list) => list.map(product => {
-                // Formatted mobile list
-                const maxDisplay = 20; // Show more mobiles
-                let mobileList = product.displayMobiles.slice(0, maxDisplay).join(', ');
-                if (product.displayMobiles.length > maxDisplay) {
-                    mobileList += ` +${product.displayMobiles.length - maxDisplay} daha fazla`;
-                }
+                const qUpper = query.toUpperCase();
 
-                // Highlight the query in the mobile list for visual feedback
-                if (query.length > 1) {
-                    const regex = new RegExp(`(${query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
-                    mobileList = mobileList.replace(regex, '<span style="color:#fbd26a;background:rgba(251,210,106,0.1);">$1</span>');
-                }
+                // Sort mobiles: Exact > Partial > None
+                const sortedMobiles = [...(product.mobiles || [])].sort((a, b) => {
+                    const aUp = a.toUpperCase();
+                    const bUp = b.toUpperCase();
+
+                    const aExact = aUp === qUpper;
+                    const bExact = bUp === qUpper;
+                    if (aExact && !bExact) return -1;
+                    if (!aExact && bExact) return 1;
+
+                    const aPartial = aUp.includes(qUpper);
+                    const bPartial = bUp.includes(qUpper);
+                    if (aPartial && !bPartial) return -1;
+                    if (!aPartial && bPartial) return 1;
+
+                    return 0;
+                });
+
+                // Generate badges for sorted mobiles
+                const badgesHtml = sortedMobiles.map(mobile => {
+                    const mUpper = mobile.toUpperCase();
+
+                    let badgeClass = 'badge-none';
+                    if (mUpper === qUpper) {
+                        badgeClass = 'badge-perfect';
+                    } else if (mUpper.includes(qUpper)) {
+                        badgeClass = 'badge-partial';
+                    }
+
+                    return `<span class="mobile-badge ${badgeClass}">${mobile}</span>`;
+                }).join('');
 
                 return `
                     <div class="product-card">
@@ -345,7 +396,10 @@
                         </div>
                         <div style="color: #a0a0a0; font-size: 0.9rem; margin-bottom: 5px;">${product.category}</div>
                         <div class="matched">
-                            <strong>Uyumlu Modeller:</strong> ${mobileList}
+                            <strong>Uyumlu Modeller:</strong>
+                            <div class="mobile-badges">
+                                ${badgesHtml}
+                            </div>
                         </div>
                     </div>
                 `;
