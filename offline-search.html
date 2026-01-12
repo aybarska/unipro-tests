@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UNIPRO Search - Offline</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: system-ui, sans-serif;
+            background: #1a1a2e;
+            min-height: 100vh;
+            color: #eee;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding: 25px;
+            background: linear-gradient(145deg, #16213e, #0f3460);
+            border-radius: 12px;
+        }
+
+        h1 {
+            font-size: 2rem;
+            color: #fbd26a;
+            margin-bottom: 8px;
+        }
+
+        .subtitle {
+            color: #a0a0a0;
+        }
+
+        .search-box {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        #searchInput {
+            flex: 1;
+            padding: 16px 20px;
+            font-size: 1rem;
+            border: 2px solid #0f3460;
+            border-radius: 10px;
+            background: #16213e;
+            color: #eee;
+            outline: none;
+        }
+
+        #searchInput:focus {
+            border-color: #fbd26a;
+        }
+
+        #searchBtn {
+            padding: 16px 28px;
+            background: #fbd26a;
+            border: none;
+            border-radius: 10px;
+            color: #1a1a2e;
+            font-weight: 600;
+            cursor: pointer;
+        }
+
+        #searchBtn:hover {
+            background: #e5b94d;
+        }
+
+        .product-card {
+            background: #16213e;
+            border: 1px solid #0f3460;
+            border-radius: 10px;
+            padding: 18px;
+            margin-bottom: 12px;
+        }
+
+        .product-card:hover {
+            border-color: #fbd26a;
+        }
+
+        .product-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        .box-code {
+            background: #fbd26a;
+            color: #1a1a2e;
+            padding: 5px 12px;
+            border-radius: 15px;
+            font-weight: 700;
+            font-size: 0.85rem;
+        }
+
+        .product-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+        }
+
+        .matched {
+            color: #a0a0a0;
+            font-size: 0.9rem;
+            margin-top: 8px;
+        }
+
+        .matched strong {
+            color: #4ade80;
+        }
+
+        .no-results {
+            text-align: center;
+            padding: 50px;
+            color: #a0a0a0;
+        }
+
+        .stats {
+            display: flex;
+            gap: 15px;
+            justify-content: center;
+            margin-top: 15px;
+        }
+
+        .stat {
+            background: rgba(251, 210, 106, 0.1);
+            padding: 8px 16px;
+            border-radius: 15px;
+            font-size: 0.85rem;
+        }
+
+        .stat b {
+            color: #fbd26a;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>🔍 UNIPRO Product Search</h1>
+            <p class="subtitle">Find the right tempered glass for your device</p>
+            <div class="stats">
+                <div class="stat"><b id="mc">0</b> Models</div>
+                <div class="stat"><b id="pc">0</b> Products</div>
+            </div>
+        </header>
+        <div class="search-box">
+            <input type="text" id="searchInput" placeholder="Enter phone model (e.g., iPhone 15, Samsung A54)">
+            <button id="searchBtn">Search</button>
+        </div>
+        <div id="results">
+            <div class="no-results">📱 Enter a model to search</div>
+        </div>
+    </div>
+    <script src="data/mobileModels.js"></script>
+    <script src="data/uniproProducts.js"></script>
+    <script>
+        // Data will be loaded from separate JS files
+        let mobileModels = window.mobileModels || [];
+        let uniproProducts = window.uniproProducts || [];
+
+        // Initialize stats
+        document.getElementById('mc').textContent = mobileModels.length;
+        document.getElementById('pc').textContent = uniproProducts.length;
+
+        // Show warning if no data loaded
+        if (mobileModels.length === 0 || uniproProducts.length === 0) {
+            console.warn('Data not loaded! Make sure mobileModels.js and uniproProducts.js exist.');
+            alert('Data files not found! Please make sure the JavaScript data files are generated.');
+        }
+
+        document.getElementById('searchBtn').onclick = search;
+        document.getElementById('searchInput').onkeypress = e => e.key === 'Enter' && search();
+
+        function search() {
+            const q = document.getElementById('searchInput').value.trim().toLowerCase();
+            if (!q) return;
+
+            const results = uniproProducts.filter(p =>
+                p.mobiles.some(m => m.toLowerCase().includes(q))
+            ).map(p => ({
+                ...p,
+                matched: p.mobiles.filter(m => m.toLowerCase().includes(q))
+            }));
+
+            document.getElementById('results').innerHTML = results.length ?
+                results.map(p => `
+            <div class="product-card">
+                <div class="product-header">
+                    <span class="box-code">${p.boxCode}</span>
+                    <span class="product-title">${p.title}</span>
+                </div>
+                <div class="matched"><strong>Compatible:</strong> ${p.matched.join(', ')}</div>
+            </div>
+        `).join('') :
+                `<div class="no-results">No products found for "${q}"</div>`;
+        }
+    </script>
+</body>
+
+</html>

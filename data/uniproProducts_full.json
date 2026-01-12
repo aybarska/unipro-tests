@@ -1,0 +1,6529 @@
+[
+  {
+    "boxCode": "UNIPRO H01",
+    "title": "A11X",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A02",
+      "SAMSUNG A02S(164MM)",
+      "SAMSUNG A03",
+      "SAMSUNG A03 CORE",
+      "SAMSUNG A03S(164MM)印度版",
+      "SAMSUNG A04",
+      "SAMSUNG A04S",
+      "SAMSUNG A04 CORE",
+      "SAMSUNG A04E",
+      "SAMSUNG A12",
+      "SAMSUNG A13 4G",
+      "SAMSUNG A13 5G",
+      "SAMSUNG A20S",
+      "SAMSUNG A23 4G",
+      "SAMSUNG A32 5G",
+      "SAMSUNG A42 5G",
+      "SAMSUNG A70",
+      "SAMSUNG A70S",
+      "SAMSUNG A90 5G",
+      "SAMSUNG F02S",
+      "SAMSUNG F04 4G",
+      "SAMSUNG F12",
+      "SAMSUNG F23 5G",
+      "SAMSUNG M02",
+      "SAMSUNG M02S",
+      "SAMSUNG M04 4G",
+      "SAMSUNG M12",
+      "SAMSUNG M23 5G",
+      "SAMSUNG M32 5G",
+      "SAMSUNG M33 5G",
+      "SAMSUNG M42 5G",
+      "XIAOMI MI 10 LITE 5G",
+      "XIAOMI MI 10 LITE ZOOM",
+      "XIAOMI MI 10 YOUTH 5G",
+      "XIAOMI POCO C31",
+      "XIAOMI MI POCO M4 5G",
+      "XIAOMI MI POCO M5 4G",
+      "REDMI A1",
+      "REDMI A1+",
+      "REDMI A2",
+      "REDMI A2+",
+      "REDMI 9 (INDIA)",
+      "REDMI 9A",
+      "REDMI 9 AT",
+      "REDMI 9C",
+      "REDMI 9 PRIME",
+      "REDMI 9 POWER",
+      "REDMI 9I",
+      "REDMI 10A",
+      "REDMI 10X 5G",
+      "REDMI NOTE 11E 5G",
+      "VIVO IQOO U1X",
+      "VIVO IQOO U3",
+      "VIVO IQOO U3X",
+      "VIVO IQOO U3X 4G",
+      "VIVO IQOO U5",
+      "VIVO IQOO U5E",
+      "VIVO IQOO U5X",
+      "VIVO IQOO Z3",
+      "VIVO IQOO Z5X",
+      "VIVO IQOO Z6 5G",
+      "VIVO IQOO Z6 LITE 5G",
+      "VIVO IQOO Z6X",
+      "VIVO IQOO Z7I",
+      "VIVO T1 5G（INDIA）（INDONESIA）",
+      "VIVO T1X 4G",
+      "VIVO T1X 5G",
+      "VIVO T1X (INDIA)",
+      "VIVO T2X",
+      "VIVO T2X (INDIA)",
+      "VIVO U3",
+      "VIVO G2",
+      "VIVO V18I",
+      "VIVO Y01",
+      "VIVO Y01A",
+      "VIVO Y02",
+      "VIVO Y02A",
+      "VIVO Y02S",
+      "VIVO Y02T",
+      "VIVO Y03T",
+      "VIVO Y3S(INDIA)",
+      "Y3S 2021",
+      "VIVO Y03",
+      "VIVO Y11 (2023)",
+      "VIVO Y11S",
+      "VIVO Y12（2023）",
+      "VIVO Y12A",
+      "VIVO Y12S",
+      "VIVO Y12S 2021",
+      "VIVO Y15A",
+      "VIVO Y15C",
+      "VIVO Y15S",
+      "VIVO Y16",
+      "VIVO Y17S",
+      "VIVO Y18T",
+      "VIVO Y20",
+      "VIVO Y20 2021",
+      "VIVO Y20A",
+      "VIVO Y20G",
+      "VIVO Y20I",
+      "VIVO Y20S",
+      "VIVO Y20S (G)",
+      "VIVO Y20T",
+      "VIVO Y21",
+      "VIVO Y21G",
+      "VIVO Y21S",
+      "VIVO Y21T",
+      "VIVO Y21T(INDIA）",
+      "VIVO Y22",
+      "VIVO Y22S",
+      "VIVO Y27",
+      "VIVO Y28S",
+      "VIVO Y28E 5G",
+      "VIVO Y30 (CHINA)",
+      "VIVO Y30 5G",
+      "VIVO Y30G",
+      "VIVO Y30 STANDARD",
+      "VIVO Y31",
+      "VIVO Y31S",
+      "VIVO Y32",
+      "VIVO Y32T",
+      "VIVO Y33",
+      "VIVO Y33E",
+      "VIVO Y33S",
+      "VIVO Y33T",
+      "VIVO Y35 4G",
+      "VIVO Y35 5G",
+      "VIVO Y35+",
+      "VIVO Y35M+",
+      "VIVO Y36 (INDIA)",
+      "VIVO Y36I",
+      "VIVO Y36M",
+      "VIVO Y36C",
+      "VIVO Y37M 5G",
+      "VIVO Y37 5G",
+      "VIVO Y51 2020.12",
+      "VIVO Y52 5G",
+      "VIVO Y52 2022",
+      "VIVO Y52S",
+      "VIVO Y52S T1",
+      "VIVO Y52T",
+      "VIVO Y53S 4G",
+      "VIVO Y53S 5G",
+      "VIVO Y54S",
+      "VIVO Y55 5G",
+      "VIVO Y55S (2021) 5G",
+      "VIVO Y55S (2023) 5G",
+      "VIVO Y55T",
+      "VIVO Y56",
+      "VIVO Y72 5G",
+      "VIVO Y72 5G (INDIA)",
+      "VIVO Y72T",
+      "VIVO Y73T",
+      "VIVO Y74S",
+      "VIVO Y75 4G",
+      "VIVO Y75 5G",
+      "VIVO Y75S",
+      "VIVO Y76 5G",
+      "VIVO Y76S",
+      "VIVO Y77 5G",
+      "VIVO Y77E (T1)",
+      "VIVO Z6X",
+      "HUAWEI HONOR 9C",
+      "HUAWEI HONOR 70 LITE",
+      "HUAWEI HONOR PLAY 5T YOUTH",
+      "HUAWEI HONOR PLAY 6C",
+      "HUAWEI HONOR PLAY 9C",
+      "HUAWEI HONOR PLAY 20",
+      "HUAWEI HONOR PLAY 20A",
+      "HUAWEI HONOR PLAY 30",
+      "HUAWEI HONOR PLAY 40",
+      "HUAWEI HONOR PLAY 40C",
+      "HUAWEI HONOR PLAY 40S",
+      "HUAWEI HONOR PLAY 50M",
+      "HUAWEI HONOR PLAY 50",
+      "HUAWEI HONOR X5",
+      "HUAWEI HONOR X5 PLUS",
+      "HUAWEI HONOR X5B",
+      "HUAWEI HONOR X5B PLUS",
+      "HUAWEI HONOR X6",
+      "HUAWEI HONOR X6 5G",
+      "HUAWEI HONOR X6A",
+      "HUAWEI HONOR X6S",
+      "HUAWEI HONOR X6B",
+      "HUAWEI HONOR X8 5G",
+      "HUAWEI ENJOY 50Z",
+      "HUAWEI ENJOY 80S",
+      "HUAWEI NOVA Y60",
+      "HUAWEI NOVA Y61",
+      "HUAWEI NOVA Y62",
+      "HUAWEI NOVA Y62PLUS",
+      "HUAWEI MAIMANG 10 SE",
+      "OPPO A1X",
+      "OPPO A1 ENERGY EDITION",
+      "OPPO A2X",
+      "OPPO A2M",
+      "OPPO A5 2020",
+      "OPPO T3 LITE 5G",
+      "OPPO A8",
+      "OPPO A9 2020",
+      "A11X",
+      "OPPO A11",
+      "OPPO A15",
+      "OPPO A15S",
+      "OPPO A16",
+      "OPPO A16E",
+      "OPPO A16K",
+      "OPPO A16S",
+      "OPPO A17",
+      "OPPO A17K",
+      "OPPO A18",
+      "OPPO A31",
+      "OPPO A38",
+      "OPPO A53S 5G",
+      "OPPO A54S",
+      "OPPO A55 5G",
+      "OPPO A55S",
+      "OPPO A56 5G",
+      "OPPO A56S",
+      "OPPO A57 4G",
+      "OPPO A57 5G",
+      "OPPO A57E",
+      "OPPO A57S",
+      "OPPO A58 5G",
+      "OPPO A58X",
+      "OPPO A59 2023",
+      "OPPO A77 4G",
+      "OPPO A77 5G",
+      "OPPO A77S",
+      "OPPO A78 5G",
+      "OPPO A97 5G",
+      "OPPO REALME 5",
+      "OPPO REALME 5I",
+      "OPPO REALME 5S",
+      "OPPO REALME 6I",
+      "OPPO REALME 7I (国际版)",
+      "OPPO REALME 9I 5G",
+      "OPPO REALME 10 5G",
+      "OPPO REALME 10T",
+      "OPPO REALME C3",
+      "OPPO REALME C3I",
+      "OPPO REALME C11 2020",
+      "OPPO REALME C12",
+      "OPPO REALME C15",
+      "OPPO REALME C21",
+      "OPPO REALME C11 2021",
+      "OPPO REALME C20",
+      "OPPO REALME C20A",
+      "OPPO REALME C21Y",
+      "OPPO REALME C25",
+      "OPPO REALME C25S",
+      "OPPO REALME C25Y",
+      "OPPO REALME C30",
+      "OPPO REALME C30S",
+      "OPPO REALME C31",
+      "OPPO REALME C33",
+      "OPPO REALME C33 2023",
+      "OPPO REALME C35",
+      "OPPO REALME NARZO 10",
+      "OPPO REALME NARZO 10A",
+      "OPPO REALME NARZO 20",
+      "OPPO REALME NARZO 20A",
+      "OPPO REALME NARZO 30A",
+      "OPPO REALME NARZO 50 5G",
+      "OPPO REALME NARZO 50I",
+      "OPPO REALME NARZO 50A",
+      "OPPO REALME NARZO 50A PRIME",
+      "OPPO REALME NARZO 50I PRIME",
+      "OPPO REALME Q2I",
+      "OPPO REALME Q5I",
+      "OPPO REALME Q5X",
+      "OPPO REALME V3",
+      "OPPO REALME V11 5G",
+      "OPPO REALME V20 5G",
+      "OPPO REALME V23",
+      "OPPO REALME V23I",
+      "OPPO REALME V30 5G",
+      "OPPO K10 5G",
+      "MOTO  E7",
+      "MOTO  E7 POWER",
+      "MOTO  E7 PLUS",
+      "MOTO  E7I POWER",
+      "MOTO  E13",
+      "MOTO  E20",
+      "MOTO  E22",
+      "MOTO  G PLAY (2021)",
+      "MOTO  G PURE",
+      "MOTO  G8 POWER LITE",
+      "MOTO  G9 (INDIA)",
+      "MOTO  G9 PLAY",
+      "MOTO  G10",
+      "MOTO  G10 POWER",
+      "MOTO  G20",
+      "MOTO  G30",
+      "MOTO  G50",
+      "MOTO  G50 5G",
+      "MOTO  ONE FUSION",
+      "LENOVO A8 2020",
+      "LENOVO K12",
+      "LENOVO K12 (CHINA)",
+      "LENOVO K13",
+      "LENOVO K13 NOTE ",
+      "NOKIA NOK C22",
+      "NOKIA NOK C32",
+      "NOKIA NOK G21",
+      "NOKIA NOK G22",
+      "NOKIA NOK G42",
+      "NOKIA NOK G10",
+      "NOKIA NOK G20",
+      "NOKIA NOK C21PLUS",
+      "NOKIA NOK G11",
+      "NOKIA NOK G11PLUS",
+      "ONE PLUS NORD N20 SE",
+      "ONE PLUS NORD N300 5G",
+      "LG K41S",
+      "LG K50S",
+      "LG Q51",
+      "LG W11",
+      "LG W31",
+      "LG W3",
+      "TENCO CAMON 12",
+      "TENCO POP 4 LTE",
+      "TENCO POP 4 PRO",
+      "TENCO POP 5 LTE",
+      "BD4",
+      "TENCO POP 5 PRO",
+      "BD4J",
+      "TENCO POP 5X",
+      "TENCO POP 6 PRO",
+      "TENCO POP 7",
+      "BF6",
+      "TENCO POP 7 PRO",
+      "BF7",
+      "TENCO POVA 4 PRO",
+      "TENCO SPARK 4",
+      "KC8",
+      "TENCO SPARK 4 LITE",
+      " KC8S",
+      "TENCO SPARK 6 GO",
+      "KE5J",
+      "KE5K",
+      "TENCO SPARK 7",
+      "KF6",
+      "KF6J",
+      "KF6I",
+      "KF6K",
+      "PR651H",
+      "PR651",
+      "TENCO SPARK 7T",
+      " KF6P",
+      "TENCO SPARK 8",
+      "KG6",
+      "TENCO SPARK 8C",
+      "KG5K",
+      "TENCO SPARK 8P",
+      "KG7H",
+      "TENCO SPARK 8T",
+      " KG6P",
+      "TENCO SPARK 9",
+      "KG5P",
+      "TENCO SPARK 9T",
+      "KH6",
+      "TENCO SPARK 9T (INDIA)",
+      "TENCO SPARK 9 PRO",
+      "TENCO SPARK 10 4G",
+      "KI5Q",
+      "TENCO SPARK 10 5G",
+      "KI8",
+      "TENCO SPARK 10C",
+      "KI5K",
+      "TENCO SPARK GO 2020",
+      "KE5S",
+      "TENCO SPARK GO 2021",
+      "TENCO SPARK GO 2022",
+      "TENCO SPARK GO 2023",
+      "INFINIX HOT 8",
+      "X650B",
+      "X650C",
+      "X650D",
+      "INFINIX HOT 8 LITE",
+      "X650",
+      "INFINIX HOT 10I",
+      "X659B",
+      "PR652B",
+      "X658E",
+      "INFINIX HOT 10 LITE",
+      "X657B",
+      "INFINIX HOT 11",
+      "X662",
+      "INFINIX HOT 12I",
+      "X665B",
+      "INFINIX HOT 12 PRO",
+      "X668",
+      "INFINIX HOT 20 5G",
+      "X666B",
+      "INFINIX HOT 20I",
+      "X665C",
+      "INFINIX HOT 30I",
+      "X669",
+      "INFINIX SMART 7",
+      "X6515",
+      "INFINIX SMART 7 HD",
+      "X6516",
+      "INFINIX SMART 7 (INDIA)",
+      "X6517",
+      "INFINIX NOTE  11",
+      "INFINIX NOTE  12 G88",
+      "X663",
+      "X663C",
+      "X663D",
+      "INFINIX NOTE  12 G96",
+      "X670",
+      "INFINIX NOTE  12 5G",
+      "X671",
+      "INFINIX NOTE  12 (2023)",
+      "X676C",
+      "INFINIX NOTE  12 PRO 4G",
+      "X676B",
+      "INFINIX NOTE  12 PRO 5G",
+      "X671B",
+      "INFINIX NOTE  12I 2022",
+      "X677",
+      "INFINIX NOTE  30I",
+      "X6716",
+      "INFINIX SMART 4",
+      "X653",
+      "INFINIX SMART 4C",
+      "X653C",
+      "INFINIX SMART 5",
+      "X657",
+      "X657C",
+      "INFINIX SMART 5 PRO",
+      "INFINIX SMART 6",
+      "INFINIX SMART 6 HD",
+      "INFINIX SMART 6+",
+      "INFINIX ZERO 20",
+      "X6821",
+      "ITEL A49",
+      "ITEL A58",
+      "ITEL A58 PRO",
+      "ITEL A05S",
+      "ITEL A60S",
+      "ITEL P36",
+      "ITEL P36 PRO LITE",
+      "ITEL P37",
+      "ITEL P55 5G",
+      "ITEL S16",
+      "ITEL S17",
+      "ITEL VISION 2S",
+      "ITEL A50C"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H02",
+    "title": "HOR X10",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "REDMI NOTE 14S",
+      "HUAWEI HONOR 300 ",
+      "OPPO A76",
+      "OPPO REALME 14 5G",
+      "VIVO Y36 4G",
+      "VIVO Y36 5G",
+      "SAMSUNG A73 5G",
+      "SAMSUNG F52 5G",
+      "SAMSUNG F55",
+      "SAMSUNG F62",
+      "SAMSUNG M52 5G",
+      "SAMSUNG M53 5G",
+      "SAMSUNG M54 5G",
+      "SAMSUNG M55",
+      "SAMSUNG C55",
+      "XIAOMI MI 11T",
+      "XIAOMI MI 11T PRO",
+      "XIAOMI MI 11X",
+      "XIAOMI MI 11X PRO",
+      "XIAOMI MI 12T",
+      "XIAOMI MI 12T PRO",
+      "XIAOMI MI 13T",
+      "XIAOMI MI 13T PRO",
+      "XIAOMI MI POCO F2 PRO",
+      "XIAOMI MI POCO F3",
+      "XIAOMI MI POCO F3 GT",
+      "XIAOMI MI POCO F4 GT",
+      "XIAOMI MI POCO F5 5G",
+      "XIAOMI MI POCO F5 PRO",
+      "XIAOMI MI POCO X2",
+      "XIAOMI MI POCO X4 PRO 5G",
+      "XIAOMI MI POCO X4 NFC",
+      "XIAOMI MI POCO X5 PRO",
+      "XIAOMI MI POCO X6 NEO  5G",
+      "XIAOMI MI POCO F4 5G",
+      "XIAOMI MI POCO M4 PRO 5G",
+      "XIAOMI MI POCO M6 PRO",
+      "XIAOMI MI POCO M7 PRO",
+      "REDMI K50 GAMING",
+      "REDMI K60国内",
+      "REDMI K60E国内",
+      "REDMI K60 PRO国内",
+      "REDMI NOTE 11 5G",
+      "REDMI NOTE 11T 5G",
+      "REDMI NOTE 11T PRO",
+      "REDMI NOTE 11T PRO+",
+      "REDMI NOTE 11E PRO 5G",
+      "REDMI NOTE 12 PRO 4G",
+      "REDMI NOTE 12 PRO 5G",
+      "REDMI NOTE 12 PRO+ 5G",
+      "REDMI NOTE 12 EXPLORER(探索版）",
+      "REDMI NOTE 12 TURBO 5G",
+      "REDMI NOTE 12T PRO",
+      "REDMI NOTE 12 PRO SPEED",
+      "REDMI NOTE 13 5G",
+      "REDMI NOTE 13 PRO 5G",
+      "REDMI NOTE 13",
+      "REDMI NOTE 13 PRO",
+      "REDMI NOTE 13R PRO",
+      "REDMI NOTE 14 5G",
+      "VIVO IQOO 7 (INDIA)",
+      "VIVO IQOO 7(中国)",
+      "VIVO IQOO NEO  5",
+      "VIVO IQOO NEO  5 LITE",
+      "VIVO IQOO NEO  6",
+      "VIVO IQOO NEO 6 (CHINA)",
+      "VIVO IQOO Z6 (CHINA)",
+      "VIVO IQOO Z7 (CHINA)",
+      "VIVO IQOO Z7X",
+      "VIVO S15",
+      "VIVO S16E",
+      "VIVO S18E",
+      "VIVO T2",
+      "VIVO T3 5G",
+      "VIVO V27E",
+      "VIVO V29E",
+      "VIVO V30 LITE",
+      "VIVO V40 LITE 5G",
+      "VIVO V40 LITE 4G",
+      "VIVO Y27S",
+      "VIVO Y28 5G",
+      "VIVO Y77 (CHINA)",
+      "VIVO Y77T",
+      "VIVO Y78 (CHINA)",
+      "VIVO Y78T",
+      "VIVO Y100 4G",
+      "VIVO Y100 (IDN)",
+      "VIVO Y100 5G",
+      "VIVO Y100I",
+      "VIVO Y100T",
+      "VIVO Y200",
+      "VIVO Y200E",
+      "HUAWEI HONOR 50 LITE",
+      "HUAWEI HONOR 80 GT",
+      "HUAWEI HONOR 80 PRO FLAT",
+      "HUAWEI HONOR 90 LITE",
+      "HUAWEI HONOR 90 GT",
+      "HUAWEI HONOR MAGIC7",
+      "HUAWEI HONOR X10 5G",
+      "HUAWEI ENJOY 20 PLUS 5G",
+      "HUAWEI ENJOY 20 SE",
+      "HUAWEI MATE 60",
+      "HUAWEI Y9A",
+      "OPPO A3 CHINA",
+      "OPPO A96 4G",
+      "OPPO F25 PRO 5G",
+      "OPPO F27  5G",
+      "OPPO REALME 12 4G",
+      "OPPO REALME 12+ 5G",
+      "OPPO REALME 13 4G",
+      "OPPO REALME 13 PRO",
+      "OPPO REALME 13 PLUS",
+      "OPPO REALME 14T 5G",
+      "OPPO REALME GT2",
+      "OPPO REALME GT2 PRO",
+      "OPPO REALME GT3",
+      "OPPO REALME GT5",
+      "OPPO REALME GT5 240W",
+      "OPPO REALME GT NEO 2",
+      "OPPO REALME GT NEO  3",
+      "OPPO REALME GT NEO  3 150W",
+      "OPPO REALME GT NEO  3T",
+      "OPPO REALME GT NEO  5",
+      "OPPO REALME GT NEO  5 240W",
+      "OPPO REALME GT NEO 5 SE",
+      "OPPO REALME GT NEO  6",
+      "OPPO REALME Q5",
+      "OPPO REALME Q5 PRO",
+      "OPPO RENO 8 PRO",
+      "OPPO RENO 8 PRO (CHINA)",
+      "OPPO RENO  11F 5G",
+      "OPPO RENO  12F 5G",
+      "OPPO RENO  13F 5G",
+      "OPPO K9S",
+      "OPPO K10 4G",
+      "OPPO K10 5G (CHINA)",
+      "OPPO K10X",
+      "OPPO K10 PRO",
+      "OPPO K11",
+      "OPPO K12",
+      "OPPO K12X (CHINA)",
+      "OPPO K12X PLUS",
+      "MOTO  E14",
+      "MOTO  E22S",
+      "MOTO  EDGE  20",
+      "MOTO  EDGE  20 PRO",
+      "MOTO  EDGE  30 PRO",
+      "MOTO  EDGE  X30",
+      "MOTO  G04",
+      "MOTO  G22",
+      "MOTO  G24",
+      "MOTO  G24 POWER",
+      "MOTO  G34",
+      "MOTO  G45",
+      "LENOVO LEGION Y70",
+      "ONE PLUS 10T",
+      "ONE PLUS ACE",
+      "ONE PLUS ACE PRO",
+      "LG K61",
+      "LG Q61",
+      "TENCO CAMON 12 AIR",
+      "CD6",
+      "TENCO CAMON 15",
+      "CD7",
+      "TENCO CAMON 15 PREMIER",
+      "TENCO CAMON 15 AIR",
+      "TENCO CAMON 15 PRO",
+      "CD8",
+      "TENCO CAMON 16S",
+      "TENCO CAMON 17",
+      "TENCO CAMON 20 4G",
+      "TENCO CAMON 20 PREMIER",
+      "TENCO POP 8",
+      "BG6H",
+      "TENCO SPARK 5",
+      "KE5",
+      "TENCO SPARK 5 PRO",
+      "TENCO SPARK 7 PRO",
+      "INFINIX HOT 9 PRO",
+      "X655F",
+      "INFINIX HOT 40I",
+      "INFINIX SMART 8",
+      "INFINIX NOTE  12 VIP",
+      "X672",
+      "INFINIX NOTE  30 PRO",
+      "X678B",
+      "INFINIX NOTE  30 VIP",
+      "X6710",
+      "X6525",
+      "INFINIX SMART 8 HD",
+      "INFINIX SMART 8 (INDIA)",
+      "X6525B",
+      "INFINIX SMART 8 PLUS",
+      "X6526",
+      "INFINIX SMART 8 PRO",
+      "INFINIX S5",
+      "X652",
+      "INFINIX S5 LITE",
+      "X652B",
+      "S652C",
+      "ITEL  P55+",
+      "ITEL  S16 PRO",
+      "PIXEL PIXEL 8 PRO",
+      "MOTO G STYLUS 2025"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H03",
+    "title": "K30",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A71",
+      "SAMSUNG A72 4G",
+      "SAMSUNG A72 5G",
+      "SAMSUNG A80",
+      "SAMSUNG A81",
+      "SAMSUNG A90",
+      "SAMSUNG A91",
+      "SAMSUNG F54 5G",
+      "SAMSUNG M51",
+      "SAMSUNG M62",
+      "SAMSUNG NOTE 10 LITE",
+      "SAMSUNG S10 LITE",
+      "XIAOMI MI 10T PRO 5G",
+      "XIAOMI MI 10T 5G",
+      "XIAOMI MI 10T LITE 5G",
+      "XIAOMI MI 10I 5G",
+      "XIAOMI MI 11I",
+      "XIAOMI MI POCO X3",
+      "XIAOMI MI POCO X3 GT",
+      "XIAOMI MI POCO X3 NFC",
+      "XIAOMI MI POCO X3 PRO",
+      "XIAOMI MI POCO M2 PRO",
+      "REDMI K30",
+      "REDMI K30 5G",
+      "REDMI K30 PRO",
+      "REDMI K30 ULTRA",
+      "REDMI K30I",
+      "REDMI K30I 5G",
+      "REDMI K30S",
+      "REDMI K40",
+      "REDMI K40 PRO",
+      "REDMI K40 PRO +",
+      "REDMI K40 GAMING",
+      "REDMI NOTE 9S",
+      "REDMI NOTE 9 PRO",
+      "REDMI NOTE 9 PRO 5G",
+      "REDMI NOTE 9 PRO MAX",
+      "REDMI NOTE 10 PRO",
+      "REDMI NOTE 10 PRO国内版",
+      "REDMI NOTE 10 PRO MAX",
+      "REDMI NOTE 11 PRO 5G 国内版",
+      "REDMI NOTE 11 PRO+ 5G",
+      "REDMI NOTE 14 国际版",
+      "VIVO IQOO Z5",
+      "VIVO IQOO Z9",
+      "VIVO T1（CHINA）",
+      "VIVO V40SE",
+      "VIVO Y200 GT",
+      "VIVO Y300 GT",
+      "VIVO Y300 5G",
+      "VIVO Y400 ",
+      "HUAWEI HONOR 10X LITE",
+      "HUAWEI HONOR PLAY 6T PRO",
+      "HUAWEI HONOR PLAY 7T PRO",
+      "HUAWEI HONOR X8 4G",
+      "HUAWEI HONOR X8A",
+      "HUAWEI HONOR X30I",
+      "HUAWEI HONOR X40I",
+      "HUAWEI HONOR X50I",
+      "HUAWEI ENJOY 70 PRO",
+      "HUAWEI NOVA 10 SE",
+      "HUAWEI NOVA 11 SE",
+      "HUAWEI NOVA 12 SE",
+      "HUAWEI NOVA 12 I",
+      "HUAWEI NOVA 13I",
+      "HUAWEI NOVA Y90",
+      "HUAWEI P SMART 2021",
+      "HUAWEI Y7A",
+      "HUAWEI MAIMANG 20",
+      "OPPO A3 PRO 5G",
+      "OPPO A3 5G 新",
+      "OPPO REALME 10 PRO 5G",
+      "OPPO REALME P3",
+      "OPPO REALME NARZO 70 PRO 5G",
+      "OPPO RENO 8 PRO+",
+      "OPPO K12X",
+      "OPPO K12S",
+      "MOTO  E15",
+      "MOTO  EDGE  20 LITE",
+      "MOTO  G05",
+      "MOTO  ONE 5G ACE",
+      "MOTO  ONE 5G UW ACE",
+      "ONE PLUS 10R",
+      "ONE PLUS ACE 2V",
+      "ONE PLUS ACE 3V",
+      "ONE PLUS NORD 3",
+      "ONE PLUS NORD CE3",
+      "ONE PLUS NORD CE4",
+      "ONE PLUS NORD CE 4 LITE",
+      "ONE PLUS NORD N30",
+      "LG K42",
+      "LG K51S",
+      "LG K52",
+      "LG K62",
+      "LG K92 5G",
+      "LG Q52",
+      "LG W41",
+      "LG W4",
+      "LG W41 PRO",
+      "TENCO CAMON 20 PRO 4G",
+      "TENCO CAMON 20 PRO 5G",
+      "INFINIX HOT 9",
+      "X655",
+      "X655C",
+      "X655D",
+      "INFINIX HOT 9 LITE",
+      "INFINIX NOTE  7 LITE",
+      "X656",
+      "ASUS ROG 8",
+      "ASUS ROG 8 PRO",
+      "ASUS ROG 9",
+      "ASUS ZENFONE 7",
+      "ASUS ZENFONE 7 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H04",
+    "title": "V30",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "REDMI 10",
+      "REDMI 10 20222",
+      "REDMI 10 PRIME",
+      "REDMI NOTE 10 5G",
+      "REDMI NOTE 11S 5G",
+      "REDMI NOTE 11 SE",
+      "VIVO IQOO NEO  3",
+      "VIVO IQOO Z1",
+      "VIVO IQOO Z1X",
+      "HUAWEI HONOR 30S",
+      "HUAWEI HONOR PLAY 4 PRO",
+      "HUAWEI HONOR PLAY 5 YOUTH",
+      "HUAWEI HONOR PLAY 5T PRO",
+      "HUAWEI HONOR VIEW 30 PRO",
+      "V30 PRO",
+      "HUAWEI HONOR VIEW 30",
+      "V30",
+      "HUAWEI HONOR X20",
+      "HUAWEI ENJOY 50 PRO",
+      "HUAWEI NOVA 6",
+      "HUAWEI NOVA 7 SE",
+      "HUAWEI NOVA 7 SE 5G YOUTH",
+      "HUAWEI NOVA 8I",
+      "HUAWEI NOVA 8 SE YOUTH",
+      "HUAWEI NOVA 8 SE VITALITY",
+      "HUAWEI NOVA 8 SE ACTIVE",
+      "HUAWEI NOVA 8 SE LIFE",
+      "HUAWEI NOVA 10Z",
+      "HUAWEI P40 LITE 5G",
+      "OPPO A11S",
+      "OPPO ACE 2",
+      "OPPO REALME 8 5G",
+      "OPPO REALME 8S 5G",
+      "OPPO REALME 8I",
+      "OPPO REALME 9 5G",
+      "OPPO REALME 9 5G SE",
+      "OPPO REALME 9 5G (INDIA)",
+      "OPPO REALME 9 5G SPEED",
+      "OPPO REALME 9 SE",
+      "OPPO REALME 9I 4G",
+      "OPPO REALME 9 PRO",
+      "OPPO REALME C17",
+      "OPPO REALME NARZO",
+      "OPPO REALME NARZO 20 PRO",
+      "OPPO REALME NARZO 30",
+      "OPPO REALME NARZO 30 5G",
+      "OPPO REALME NARZO 30 PRO 5G",
+      "OPPO REALME NARZO 50 4G",
+      "OPPO REALME GT2 EXPLORER MASTER",
+      "OPPO REALME Q2",
+      "OPPO REALME Q3 5G",
+      "OPPO REALME Q3S",
+      "OPPO REALME Q3T",
+      "OPPO REALME Q3I 5G",
+      "OPPO REALME V5 5G",
+      "OPPO REALME V11S 5G",
+      "OPPO REALME V13 5G",
+      "OPPO REALME V25 5G",
+      "OPPO REALME X3",
+      "OPPO REALME X3 SUPERZOOM",
+      "OPPO REALME X7 PRO",
+      "OPPO REALME X50 5G",
+      "OPPO REALME X50M 5G",
+      "OPPO RENO 4 Z 5G",
+      "MOTO  E30",
+      "MOTO  E40",
+      "MOTO  GFAST",
+      "MOTO G POWER 5G",
+      "MOTO  G13",
+      "MOTO   G14",
+      "MOTO  G23",
+      "MOTO  G32",
+      "MOTO  G53",
+      "MOTO  G53J",
+      "MOTO  G53Y",
+      "MOTO  G62 5G",
+      "MOTO  G73",
+      "ONE PLUS ACE RACING",
+      "ONE PLUS ACE 2",
+      "INFINIX ZERO X",
+      "X 6810",
+      "INFINIX ZERO X PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H05",
+    "title": "A98",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "XIAOMI MI POCO X5 5G",
+      "REDMI NOTE 12 4G",
+      "REDMI NOTE 12 5G",
+      "REDMI NOTE 12R PRO 5G",
+      "VIVO IQOO Z9 X",
+      "VIVO IQOO Z9 TURBO",
+      "VIVO IQOO Z9 TURBO+",
+      "VIVO IQOO Z10X",
+      "VIVO IQOO Z10",
+      "VIVO IQOO Z10 TURBO",
+      "VIVO IQOO Z10 TURBO PRO",
+      "VIVO IQOO Z10 TURBO+",
+      "VIVO IQOO Z10 LITE",
+      "VIVO T4X 5G",
+      "VIVO Y19S",
+      "VIVO Y19SPRO",
+      "VIVO Y28 4G",
+      "VIVO Y29 4G",
+      "VIVO Y29 5G",
+      "VIVO Y300T",
+      "VIVO Y300I",
+      "VIVO Y37 PRO",
+      "VIVO Y38 5G",
+      "VIVO Y39 5G",
+      "VIVO Y58",
+      "VIVO Y200I",
+      "OPPO A1 5G (2023)",
+      "OPPO A2",
+      "OPPO A3 4G 欧版",
+      "OPPO A3I 5G ",
+      "OPPO A3X 4G",
+      "OPPO A3X 5G",
+      "OPPO A5 5G国外",
+      "OPPO A58 4G",
+      "OPPO A40",
+      "OPPO A80 5G",
+      "OPPO A60",
+      "OPPO A79 5G",
+      "OPPO A98 5G",
+      "OPPO F23 5G",
+      "OPPO REALME 11 5G",
+      "OPPO REALME 11X",
+      "OPPO REALME 12 5G",
+      "OPPO REALME 12X",
+      "OPPO REALME 13 5G",
+      "OPPO REALME 14X",
+      "OPPO REALME C55",
+      "OPPO REALME C65",
+      "OPPO REALME C67 4G",
+      "OPPO REALME C67 5G",
+      "OPPO REALME C71",
+      "OPPO REALME C75",
+      "OPPO REALME C73",
+      "OPPO REALME V50S",
+      "OPPO REALME P3X",
+      "OPPO REALME NARZO N55",
+      "OPPO REALME NARZO 60X",
+      "OPPO REALME V50",
+      "OPPO K11X",
+      "MOTO GPLAY 2025",
+      "ONE PLUS  NORDCE3 LITE",
+      "ONE PLUS  K11",
+      "ONE PLUS   NORDN 30SE",
+      "INFINIX HOT11 2022",
+      "INFINIX HOT50I",
+      "INFINIX HOT50 5G",
+      "INFINIX HOT 50PRO",
+      "INFINIX SMA RT9",
+      "LG Q92 5G"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H06",
+    "title": "RENO2",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "XIAOMI MI 11 LITE 5G",
+      "XIAOMI MI 12 LITE",
+      "XIAOMI MI POCO M3 PRO",
+      "XIAOMI MI POCO M3 PRO 5G",
+      "HUAWEI HONOR 30",
+      "HUAWEI HONOR X20 SE",
+      "HUAWEI NOVA 7 5G",
+      "HUAWEI MAIMANG 10",
+      "OPPO A32",
+      "OPPO A33 2020",
+      "OPPO A35",
+      "OPPO A36",
+      "OPPO A52",
+      "OPPO A53 4G",
+      "OPPO A53 5G",
+      "OPPO A53S 4G",
+      "OPPO A54 4G",
+      "OPPO A54 5G",
+      "OPPO A55 4G",
+      "OPPO A72 4G",
+      "OPPO A72 5G",
+      "OPPO A72N 5G",
+      "OPPO A73 5G",
+      "OPPO A74 5G",
+      "OPPO A92",
+      "OPPO A92S",
+      "OPPO A93 4G",
+      "OPPO A93 5G",
+      "OPPO A93S 5G",
+      "OPPO REALME 6",
+      "OPPO REALME 6I (INDIA)",
+      "OPPO REALME 6S",
+      "OPPO REALME 6 PRO",
+      "OPPO REALME 7 4G",
+      "OPPO REALME 7 5G",
+      "OPPO REALME 7I",
+      "OPPO REALME V15 5G",
+      "OPPO RENO 2",
+      "OPPO RENO 7 SE 5G",
+      "OPPO K7X",
+      "OPPO K9X",
+      "MOTO EDGE (2022)",
+      "MOTO EDGE 30",
+      "MOTO G42",
+      "MOTO G52",
+      "MOTO G54",
+      "MOTO G54(CHINA)",
+      "MOTO G55 5G",
+      "MOTO G64",
+      "MOTO G72",
+      "ONE PLUS 8T",
+      "ONE PLUS 8T 5G",
+      "ONE PLUS 9(EU",
+      "NA)",
+      "ONE PLUS 9(IN",
+      "CN)",
+      "ONE PLUS 9R",
+      "ONE PLUS 9RT 5G",
+      "ONE PLUS NORD N200 5G"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H07",
+    "title": "VIVO X30",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "REDMI NOTE 11 4G 国内版",
+      "REDMI NOTE 11 国际版",
+      "REDMI NOTE 11S 4G",
+      "VIVO IQOO 35G",
+      "VIVO IQOO Z6 PRO 5G",
+      "VIVO S5",
+      "VIVO V17(INDIA)",
+      "VIVO V17PRO",
+      "VIVO V19",
+      "VIVO V19(INDONESIA)",
+      "VIVO V19 NEO ",
+      "VIVO X30",
+      "VIVO X30 PRO",
+      "OPPO A74 4G",
+      "OPPO REALME 7 PRO",
+      "OPPO REALME 8 4G",
+      "OPPO REALME 8 PRO",
+      "OPPO REALME 9 4G",
+      "OPPO REALME 9 PRO+",
+      "OPPO REALME GT 5G",
+      "OPPO REALME GT NEO ",
+      "OPPO REALME GT NEO  FLASH",
+      "OPPO REALME GT MASTER",
+      "OPPO REALME GT NEO  2T",
+      "OPPO REALME Q3 PRO 5G",
+      "OPPO REALME Q3 PRO CARNIVAL",
+      "OPPO REALME X7 MAX 5G",
+      "OPPO REALME X50 PRO 5G",
+      "OPPO REALME X50 PRO PLAY",
+      "OPPO REALME X50 PRO PLAYER",
+      "OPPO RENO  5 4G",
+      "OPPO RENO  5 5G",
+      "OPPO RENO  5K",
+      "OPPO RENO  5F",
+      "OPPO RENO  5 LITE",
+      "OPPO RENO  5Z",
+      "OPPO K9",
+      "OPPO K9 PRO",
+      "OPPO FIND X3 LITE",
+      "OPPO FIND X5 LITE",
+      "MOTO G POWER 4G",
+      "MOTO G31",
+      "MOTO G41",
+      "MOTO G715G",
+      "MOTO G71S",
+      "ONE PLUS NORD",
+      "Z",
+      "ONE PLUS NORD 2 5G",
+      "ONE PLUS NORD CE 5G",
+      "ONE PLUS NORD CE2 5G",
+      "ONE PLUS NORD N20 5G",
+      "ASUS ZENFONE 6",
+      "REDMI NOTE 10 4G",
+      "REDMI NOTE 10S"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H08",
+    "title": "RENO3",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "REDMI NOTE 8T",
+      "VIVO  IQOO Z64G（44W）",
+      "VIVO S6 5G",
+      "VIVO S7E 5G",
+      "VIVO S9E",
+      "VIVO S10E",
+      "VIVO S15E",
+      "VIVO T14G（44W）",
+      "VIVO T1 5G（马来西亚）",
+      "VIVO T1PRO 5G",
+      "VIVO T2(INDIA)",
+      "VIVO V20",
+      "VIVO V20 2021",
+      "VIVO V20SE",
+      "VIVO V21 4G",
+      "VIVO V21 5G",
+      "VIVO V21E 4G",
+      "VIVO V21E 5G",
+      "VIVO V21S 5G",
+      "VIVO V23E 4G",
+      "VIVO V23E 5G",
+      "VIVO V25 5G",
+      "VIVO V25E",
+      "VIVO X50E 5G",
+      "VIVO X80 LITE",
+      "VIVO Y55 4G",
+      "VIVO Y70",
+      "VIVO Y71T",
+      "VIVO Y73 2021",
+      "VIVO Y73S",
+      "VIVO Y100",
+      "HUAWEI  HONOR30 LITE",
+      "HUAWEI  HONOR 30 YOUTH",
+      "HUAWEI  HONOR PLAY 9A",
+      "HUAWEI  ENJOY 20PRO",
+      "HUAWEI  ENJOYZ 5G",
+      "OPPO A73 4G",
+      "OPPO A91",
+      "OPPO A91 GLOBAL",
+      "OPPO F15",
+      "OPPO F17",
+      "OPPO RENO 3",
+      "OPPO RENO 3A",
+      "OPPO RENO 3 YOUTH",
+      "OPPO K7",
+      "OPPO FINDX2 LITE"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H09",
+    "title": "RENO4",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "XIAOMI  POCO M4PRO 4G",
+      "XIAOMI  POCO M5S",
+      "REDMI NOTE  12S",
+      "OPPO A78 4G",
+      "OPPO A94 4G",
+      "OPPO A94 5G",
+      "OPPO A95 4G",
+      "OPPO A95 5G",
+      "OPPO A96 5G(CHINA)",
+      "OPPO F17PRO",
+      "OPPO F19",
+      "OPPO F19PRO",
+      "OPPO F19PRO+5G",
+      "OPPO F19S",
+      "OPPO RENO  21PRO 4G",
+      "OPPO F21PRO 5G",
+      "OPPO F21S PRO4G",
+      "OPPO F21S PRO 5G",
+      "OPPO REALME 104G",
+      "OPPO REALME 11（国内版）",
+      "OPPO REALME 114G",
+      "OPPO REALME NARZO 50PRO 5G",
+      "OPPO REALME Q2 PRO",
+      "OPPO REALME X7",
+      "OPPO REALME X7(INDIA)",
+      "OPPO RENO 4",
+      "OPPO RENO 4 5G",
+      "OPPO RENO 4F",
+      "OPPO RENO 4 LITE",
+      "OPPO RENO  4SE",
+      "OPPO RENO  74G",
+      "OPPO RENO  75G",
+      "OPPO RENO 7 5G(CHINA)",
+      "OPPO RENO 7 PRO 5G",
+      "OPPO RENO  7A",
+      "OPPO RENO 7 LITE",
+      "OPPO RENO  7Z 5G",
+      "OPPO RENO 8 4G",
+      "OPPO RENO 8 5G",
+      "OPPO RENO 8(CHINA)",
+      "OPPO RENO 8 LITE 5G",
+      "OPPO RENO 8T",
+      "OPPO RENO 8Z 5G",
+      "OPPO RENO 9A",
+      "MOTO G82",
+      "MOTO G84"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H10",
+    "title": "S1",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "REDMI 10X 4G",
+      "REDMI NOTE 9",
+      "REDMI NOTE 9T",
+      "REDMI NOTE 94G",
+      "5G国外",
+      "VIVO  IQOO U1",
+      "VIVO S1(中国)",
+      "VIVO V15",
+      "VIVO Y30 4G",
+      "VIVO Y30I",
+      "VIVO Y50",
+      "VIVO Y50T",
+      "VIVO Y51S",
+      "VIVO Y70S",
+      "VIVO Y70T",
+      "VIVO Z1PRO",
+      "VIVO Z5X",
+      "VIVO Z5X(2020)",
+      "HUAWEI  HONOR 9X",
+      "HUAWEI  HONOR 9XPRO(中国)",
+      "HUAWEI  HONOR 9X(中国)",
+      "HUAWEI  ENJOY 10PLUS",
+      "畅享10+",
+      "HUAWEI PSMARTPRO 2019",
+      "HUAWEI PSMARTZ",
+      "HUAWEI Y9 PRIME2019",
+      "HUAWEI Y9S",
+      "OPPO F11PRO",
+      "OPPO REALME X",
+      "OPPO RENO 5G(6.6\")",
+      "OPPO RENO 2F",
+      "OPPO RENO 2Z",
+      "OPPO RENO 10XZOOM",
+      "OPPO K3",
+      "MOTO ONE FUSION+",
+      "MOTO ONE HYPER",
+      "ONE PLUS NORD 2T",
+      "ONE PLUS NORDCE2 LITE 5G",
+      "ONE PLUS NORDN10 5G",
+      "ONE PLUS NORDN100"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H100",
+    "title": "pixel8",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "PIXEL 8"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H101",
+    "title": "Pixel8A",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "PIXEL 8A"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H102",
+    "title": "Pixel9 PROXL",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "PIXEL 9 PRO XL"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H103",
+    "title": "X300解锁",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "VIVO X300"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H104",
+    "title": "X300PRO解锁",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "VIVO X300 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H105",
+    "title": "IP 6/7/8",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 6",
+      "IPHONE 7",
+      "IPHONE 8"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H106",
+    "title": "IP 6P/7P/8P",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 6P",
+      "IPHONE 7P",
+      "IPHONE 8P"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H107",
+    "title": "IP X/XS/11 PRO",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE X",
+      "IPHONE XS",
+      "IPHONE 11 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H108",
+    "title": "IP XR/11",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE XR",
+      "IPHONE 11"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H109",
+    "title": "IP XS MAX/11 PRO MAX",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE XS MAX",
+      "IPHONE 11 PRO MAX"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H11",
+    "title": "A05",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A05",
+      "SAMSUNG A05S",
+      "SAMSUNG A06",
+      "SAMSUNG F05",
+      "SAMSUNG F06",
+      "SAMSUNG M06",
+      "SAMSUNG M05",
+      "SAMSUNG M14 4G",
+      "SAMSUNG XCOVER 7PRO",
+      "XIAOMI  POCO M65G",
+      "VIVO Y04",
+      "VIVO Y19E",
+      "VIVO Y29S",
+      "HUAWEI  HONOR PLAY6T",
+      "HUAWEI  HONOR PLAY7T",
+      "HUAWEI  HONOR PLAY30 PLUS",
+      "HUAWEI  HONOR PLAY40 PLUS",
+      "HUAWEI  HONOR X7",
+      "HUAWEI  HONOR X7A",
+      "HUAWEI  ENJOY 60",
+      "HUAWEI  ENJOY 70",
+      "HUAWEI NOVA Y70",
+      "HUAWEI NOVA Y70PLUS",
+      "HUAWEI NOVA Y71",
+      "HUAWEI NOVA Y72",
+      "HUAWEI MAIMANG11",
+      "OPPO REALME C51",
+      "OPPO REALME C51S",
+      "OPPO REALME C53",
+      "OPPO REALME C53(INDIA)",
+      "OPPO REALME C61",
+      "OPPO REALME C63",
+      "OPPO REALME C65S",
+      "OPPO REALME NOTE 50",
+      "OPPO REALME NOTE 60",
+      "OPPO REALME NARZON53",
+      "NOKIA NOKC31"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H110",
+    "title": "IP 12 MINI",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 12 MINI"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H111",
+    "title": "IP 12/12 PRO",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 12",
+      "IPHONE 12 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H112",
+    "title": "IP 12 PRO MAX",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 12 PRO MAX"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H113",
+    "title": "IP 13 MINI",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 13 MINI"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H114",
+    "title": "IP 13/13 PRO/14",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 13",
+      "IPHONE 13 PRO",
+      "IPHONE 14",
+      "IPHONE SE4 2025",
+      "IPHONE 16E"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H115",
+    "title": "IP 13 PRO MAX/14 PLUS",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 13 PRO MAX",
+      "IPHONE 14 PLUS"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H116",
+    "title": "IP 14 PRO",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 14 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H117",
+    "title": "IP 14 PRO MAX",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 14 PRO MAX"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H118",
+    "title": "IP 15 PRO",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 15 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H119",
+    "title": "IP 15 PRO MAX",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 15 PRO MAX"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H12",
+    "title": "X23",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG M20",
+      "VIVO S1（国外）",
+      "HUAWEI  ENJOY 9",
+      "畅享9",
+      "HUAWEI NOVA5",
+      "HUAWEI NOVA5PRO",
+      "HUAWEI Y7 2019",
+      "HUAWEI Y7PRIME 2019",
+      "HUAWEI Y7PRO2019",
+      "OPPO F9",
+      "OPPO F9PRO",
+      "OPPO REALME Q",
+      "OPPO REALME U1",
+      "OPPO REALME 2PRO",
+      "OPPO REALME 3PRO",
+      "OPPO REALME 5PRO",
+      "OPPO REALME XT",
+      "OPPO REALME X2",
+      "OPPO RENO A",
+      "OPPO RENO Z",
+      "OPPO K1",
+      "OPPO K5",
+      "OPPO R15X",
+      "OPPO R17",
+      "OPPO RX17NEO ",
+      "OPPO RX17 PRO",
+      "MOTO MOTO E(2020)",
+      "MOTO G7",
+      "MOTO G7 PLUS",
+      "ONE PLUS 6T",
+      "ONE PLUS 7",
+      "LG G8X THINQ",
+      "LG V50S THINQ 5G",
+      "TENCO POP 6"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H120",
+    "title": "IP 15",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 15",
+      "IPHONE 16"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H121",
+    "title": "IP 15 PLUS",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 15 PLUS",
+      "IPHONE 16 PLUS"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H122",
+    "title": "IP 16 PRO",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 16 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H123",
+    "title": "IP 16 PRO MAX",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 16 PRO MAX"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H124",
+    "title": "IP 17",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 17"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H125",
+    "title": "IP 17 AIR",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE  17 AIR"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H126",
+    "title": "IP 17 PRO",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE  17 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H127",
+    "title": "IP 17 PRO MAX",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE  17 PRO MAX"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H128",
+    "title": "IQOO 15解锁",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "VIVO IQOO 15"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H129",
+    "title": "HONOR 500解锁",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "HUAWEI HONOR 500 ",
+      "HUAWEI HONOR 500 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H13",
+    "title": "R17",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "XIAOMI  9",
+      "XIAOMI  9 LITE",
+      "XIAOMI  CC9",
+      "REDMI NOTE  7",
+      "REDMI NOTE 7PRO",
+      "REDMI NOTE 7S",
+      "REDMI NOTE  8",
+      "REDMI NOTE 82021",
+      "VIVO  IQOO NEO ",
+      "VIVO S1 PRIME",
+      "VIVO S1PRO（国外）",
+      "VIVO U10",
+      "VIVO V11",
+      "VIVO V11 PRO",
+      "VIVO V11I",
+      "VIVO V17(RUSSIA)",
+      "VIVO V17 NEO ",
+      "VIVO X23",
+      "VIVO X50 LITE",
+      "VIVO Y1S",
+      "VIVO Y3",
+      "VIVO Y3S",
+      "VIVO Y7S",
+      "VIVO Y9S",
+      "VIVO Y11 (2019)",
+      "VIVO Y12（2019）",
+      "VIVO Y12I",
+      "VIVO Y15",
+      "VIVO Y17",
+      "VIVO Y51 2020.9",
+      "VIVO Z1X",
+      "VIVO Z5"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H130",
+    "title": "HONOR 400",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "HUAWEI HONOR 400 ",
+      "HUAWEI HONOR 400 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H131",
+    "title": "GT8解锁",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "OPPO REALME GT8",
+      "OPPO REALME GT8 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H132",
+    "title": "Find X9 PRO解锁",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "OPPO FIND X9 PRO",
+      "OPPO RENO 15 PRO",
+      "ONE PLUS 15"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H133",
+    "title": "VIVO Y21D",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "VIVO Y21D"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H14",
+    "title": "X21开槽",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "XIAOMI  8 LITE",
+      "XIAOMI  8 YOUTH",
+      "VIVO V9",
+      "VIVO X21",
+      "VIVO X21I",
+      "VIVO Y81",
+      "VIVO Y81I",
+      "VIVO Y83",
+      "VIVO Y83PRO",
+      "VIVO Y85",
+      "VIVO Y89",
+      "VIVO Z1LITE",
+      "VIVO Z1I",
+      "VIVO Z3X",
+      "OPPO A3",
+      "OPPO A3S",
+      "OPPO A5",
+      "AX5",
+      "OPPO A12E",
+      "OPPO F7",
+      "OPPO REALME 2",
+      "OPPO REALME C1",
+      "OPPO R15",
+      "OPPO R15 PRO",
+      "ONE PLUS 6"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H15",
+    "title": "Y97",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A10",
+      "SAMSUNG A10S",
+      "SAMSUNG M01CORE",
+      "SAMSUNG M10",
+      "REDMI 7",
+      "REDMI 8",
+      "REDMI 8A",
+      "REDMI 8APRO",
+      "VIVO Y90",
+      "VIVO Y91",
+      "VIVO Y91D",
+      "VIVO Y91I",
+      "VIVO Y93",
+      "VIVO Y93S",
+      "VIVO Y95",
+      "VIVO Y97",
+      "OPPO REALME 3",
+      "OPPO REALME 3I",
+      "TENCO SPARK 4AIR",
+      "TENCO SPARK GO",
+      "KC1",
+      "INFINIXS4",
+      "X610B",
+      "X626",
+      "X626B",
+      "ITELS15",
+      "ITELS15PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H16",
+    "title": "RM 12",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "XIAOMI  POCO M6 4G",
+      "XIAOMI  POCO M6PRO 5G",
+      "REDMI 12 4G",
+      "REDMI 12 5G",
+      "REDMI 13 5G",
+      "REDMI 13 4G",
+      "REDMI 13X",
+      "REDMI NOTE 12R",
+      "HUAWEI  HONOR 200S  MART",
+      "TENCO POVA 5",
+      "TENCO POVA 5PRO",
+      "TENCO SPARK 20PRO",
+      "INFINIX HOT 30",
+      "X6831",
+      "INFINIX HOT30 5G",
+      "INFINIX HOT 30PLAY",
+      "INFINIX HOT 40",
+      "X6836",
+      "INFINIX HOT 40PRO",
+      "X6837",
+      "INFINIX HOT 50 4G",
+      "INFINIX NOTE 30 4G",
+      "X6833B",
+      "INFINIX NOTE 30 5G",
+      "X6711",
+      "HUAWEI  HONOR 90 SMART",
+      "HUAWEI HONOR X7B",
+      "HUAWEI ENJOY 70Z",
+      "HUAWEI HONOR X7C 4G",
+      "HUAWEI HONOR X7C 5G",
+      "HUAWEI HONOR X7D"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H17",
+    "title": "x27",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A8S",
+      "A8S 2018",
+      "SAMSUNG A9 2019",
+      "A9 PRO 2019",
+      "XIAOMI  9T",
+      "XIAOMI  9T PRO",
+      "REDMI K20",
+      "REDMI K20 PRO",
+      "VIVO S1PRO（中国）",
+      "VIVO V15 PRO",
+      "VIVO X27",
+      "HUAWEI  HONOR PLAY 3",
+      "HUAWEI  HONOR PLAY 4T",
+      "HUAWEI  HONOR VIEW20",
+      "V20",
+      "HUAWEI  ENJOY 10",
+      "畅享10",
+      "HUAWEI NOVA 4",
+      "HUAWEI P40 LITE 4G",
+      "HUAWEI P40 LITE E",
+      "HUAWEI P50",
+      "HUAWEI P50E",
+      "HUAWEI Y7P",
+      "OPPO RENO (6.4\")"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H18",
+    "title": "A9",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "XIAOMI  POCO M2",
+      "XIAOMI  POCO M3",
+      "REDMI 9",
+      "REDMI 9T",
+      "REDMI NOTE 8PRO",
+      "REDMI NOTE 94G国内",
+      "VIVO U20",
+      "VIVO Y5S",
+      "VIVO Y19",
+      "VIVO Z5I",
+      "HUAWEI  HONOR PLAY5 5G",
+      "HUAWEI NOVA 8SE 4G",
+      "OPPO A9",
+      "OPPO A9X",
+      "OPPO F11",
+      "OPPO REALME X2 PRO",
+      "OPPO RENO  ACE",
+      "ONE PLUS 7T"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H19",
+    "title": "HOR50SE",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "VIVO  IQOO NEO  5SE",
+      "VIVO  IQOO NEO  7",
+      "VIVO  IQOO NEO  7(CHINA)",
+      "VIVO  IQOO NEO 7 PRO",
+      "VIVO  IQOO NEO  7SE",
+      "VIVO  IQOO NEO 7 RACING",
+      "VIVO  IQOO NEO  8",
+      "VIVO  IQOO NEO  8PRO",
+      "VIVO  IQOO NEO  9",
+      "VIVO  IQOO NEO 9 PRO(CHINA)",
+      "VIVO  IQOO NEO 9 PRO",
+      "VIVO  IQOO NEO 9S PRO+不解锁",
+      "VIVO  IQOO NEO 10 不解锁",
+      "VIVO  IQOO 10",
+      "VIVO  IQOO 11",
+      "VIVO  IQOO 11S",
+      "VIVO  IQOO 12",
+      "VIVO  IQOO 13不解锁",
+      "VIVO  IQOO Z9",
+      "VIVO  IQOO Z9 TURBO",
+      "VIVO  IQOO Z9 TURBO+",
+      "VIVO  IQOO NEO 9 SE",
+      "VIVO V395G",
+      "VIVO V50 LITE 5G",
+      "VIVO V50 LITE 4G",
+      "HUAWEI  HONOR 50SE",
+      "HUAWEI  ENJOY 60 PRO",
+      "HUAWEI NOVA 9SE",
+      "HUAWEI NOVA 9SE 5G",
+      "HUAWEI NOVA 10 YOUTH",
+      "HUAWEI NOVA 11 I",
+      "TENCO POVA 6 PRO 5G",
+      "NUBIA ZENFONOE 12 ULTRA",
+      "VIVO Z10X",
+      "VIVO Z10 TURBO PRO",
+      "OPPO REALME V60",
+      "INFINIX NOTE 40 5G",
+      "INFINIX GT 20 PRO",
+      "OPPO REALME 15",
+      "OPPO A5 PRO 5G",
+      "OPPO A5 活力 5G",
+      "VIVO IQOO NEO 9SE"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H20",
+    "title": "NOVA11",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "HUAWEI  HONOR 200 LITE",
+      "HUAWEI  HONOR 400 LITE",
+      "HUAWEI  HONOR PLAY 8T PRO",
+      "HUAWEI  HONOR X50I+",
+      "HUAWEI  HONOR X60I 5G",
+      "HUAWEI  HONOR X60 GT",
+      "HUAWEI  HONOR  X70I",
+      "HUAWEI MATE 70",
+      "HUAWEI MAGIC 7不解锁",
+      "HUAWEI GT",
+      "OPPO A5 PRO",
+      "OPPO F29 5G",
+      "OPPO RENO  12PRO MANISH MALHLTRA",
+      "NOTHING PHONE 2A",
+      "NOTHING PHONE 2A+",
+      "HUAWEI NOVA 14",
+      "OPPO A5 2025",
+      "OPPO REALME 15 LITE",
+      "HUAWEI HONOR 90 GT",
+      "HUAWEI HONOR X8B",
+      "HUAWEI HONOR X8C",
+      "HUAWEI NOVA 11",
+      "HUAWEI NOVA 12",
+      "HUAWEI NOVA 12S",
+      "HUAWEI NOVA 12 LITE",
+      "HUAWEI NOVA 13",
+      "OPPO F29"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H21",
+    "title": "A30",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A20",
+      "SAMSUNG A30",
+      "SAMSUNG A30S",
+      "SAMSUNG A50",
+      "SAMSUNG A50S",
+      "SAMSUNG F41",
+      "SAMSUNG M10S",
+      "SAMSUNG M21",
+      "SAMSUNG M21S",
+      "SAMSUNG M30",
+      "SAMSUNG M30S",
+      "SAMSUNG M31",
+      "SAMSUNG M31 PRIME",
+      "TENCO SPARK POWER"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H22",
+    "title": "HOR 10 LITE",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "HUAWEI  HONOR 10 LITE",
+      "HUAWEI  HONOR 10I",
+      "HUAWEI  HONOR 20 LITE",
+      "HUAWEI  HONOR 20E",
+      "HUAWEI  HONOR 20I",
+      "HUAWEI  HONOR 20S(国外)",
+      "HUAWEI  ENJOY 9S",
+      "畅享9S",
+      "HUAWEI PSMART 2019",
+      "HUAWEI PSMART 2020",
+      "HUAWEI PSMART+2019",
+      "OPPO A1K",
+      "OPPO REALME C2",
+      "OPPO REALME C22020",
+      "OPPO REALME C2S"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H23",
+    "title": "K70U",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "XIAOMI  14T",
+      "XIAOMI  14 PRO",
+      "XIAOMI  POCO F7 PRO",
+      "XIAOMI  POCO F7 ULTRA",
+      "XIAOMI  POCO X6 5G",
+      "XIAOMI  POCO X6 PRO 5G",
+      "XIAOMI  POCO X7 PRO 5G",
+      "REDMI K70",
+      "REDMI K70 PRO",
+      "REDMI K70E 5G",
+      "REDMI K80不解锁",
+      "REDMI TURBO 3 5G",
+      "VIVO S20不解锁",
+      "VIVO X200S"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H24",
+    "title": "HOR X30",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "HUAWEI HONOR MAGIC 4 LITE",
+      "HUAWEI HONOR PLAY 8T",
+      "HUAWEI HONOR PLAY 9T",
+      "HUAWEI HONOR X9",
+      "HUAWEI HONOR X9 5G",
+      "HUAWEI HONOR X9C SMART",
+      "HUAWEI HONOR X30",
+      "HUAWEI HONOR X40 GT",
+      "HUAWEI HONOR X60 5G",
+      "NUBIA Z50S PRO",
+      "NUBIA Z60S PRO",
+      "MOTO G75",
+      "MOTO G 5G 2025",
+      "MOTO G POWER 2025",
+      "HUAWEI ENJOY 80"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H25",
+    "title": "A31",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A22 4G",
+      "SAMSUNG A31",
+      "SAMSUNG A32 4G",
+      "SAMSUNG A33 5G",
+      "SAMSUNG F22 5G",
+      "SAMSUNG M22 4G",
+      "SAMSUNG M32 4G",
+      "VIVO IQOO Z7",
+      "VIVO IQOO Z7S"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H26",
+    "title": "RM 10C",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "XIAOMI  POCO C55",
+      "XIAOMI  POCO C61",
+      "REDMI A3",
+      "REDMI A3+",
+      "REDMI 10(INDIA)",
+      "REDMI 10C",
+      "REDMI 12C",
+      "NOKIA NOK C21",
+      "LG V60 THINQ 5G"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H27",
+    "title": "Y93",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "VIVO Z3",
+      "VIVO Z3I",
+      "OPPO A5S",
+      "AX5S",
+      "OPPO A7",
+      "OPPO A7N",
+      "OPPO A7X",
+      "OPPO A11K",
+      "OPPO A12",
+      "OPPO A12S"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H28",
+    "title": "HOR 20",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "HUAWEI  HONOR 20",
+      "HUAWEI  HONOR 20PRO",
+      "HUAWEI  HONOR 20S(中国)",
+      "HUAWEI MATE 30 LITE",
+      "HUAWEI NOVA 5T",
+      "HUAWEI NOVA 5Z",
+      "HUAWEI Y6P",
+      "PIXEL 4A 5G"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H29",
+    "title": "J4PLUS",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A9 STAR LITE",
+      "SAMSUNG A730",
+      "A8+ 2018",
+      "SAMSUNG A750",
+      "A7 2018",
+      "SAMSUNG J4 CORE",
+      "SAMSUNG J4+",
+      "J4+ 2018",
+      "SAMSUNG J6+",
+      "J6+ 2018",
+      "SAMSUNG J8",
+      "J8 2018",
+      "SAMSUNG J8+",
+      "J8+ 2018"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H30",
+    "title": "X9D",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "VIVO X300 PRO不解锁",
+      "HUAWEI HONOR X9D",
+      "HUAWEI HONOR X70"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H31",
+    "title": "RM 14C",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "XIAOMI  POCO C71",
+      "XIAOMI  POCO C75",
+      "XIAOMI  POCO M7 ",
+      "REDMI A3PRO",
+      "REDMI A4",
+      "REDMI A5",
+      "REDMI 14C",
+      "REDMI 14R 5G"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H32",
+    "title": "A14",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A14 4G",
+      "SAMSUNG A14 5G",
+      "SAMSUNG A14 6U 5G美版",
+      "SAMSUNG A14 6P 5G 国际版",
+      "SAMSUNG A14 6B 5G 印度版",
+      "SAMSUNG F14 5G",
+      "SAMSUNG M14 5G"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H33",
+    "title": "MI Black Shark 4",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "XIAOMI  BLACK SHARK 4",
+      "XIAOMI  BLACK SHARK 4 PRO",
+      "XIAOMI  BLACK SHARK 4S",
+      "XIAOMI  BLACK SHARK 4S PRO",
+      "XIAOMI  BLACK SHARK 5",
+      "XIAOMI  BLACK SHARK 5 PRO",
+      "XIAOMI  BLACK SHARK 5 RS"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H34",
+    "title": "VI S7",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "VIVO S7 5G",
+      "VIVO S7T",
+      "VIVO S9",
+      "VIVO S10",
+      "VIVO S10 PRO",
+      "VIVO V20 PRO",
+      "VIVO V23 5G"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H35",
+    "title": "A24 4G",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A15 5G",
+      "SAMSUNG A24 4G",
+      "SAMSUNG A25 5G",
+      "SAMSUNG F15 5G",
+      "SAMSUNG F34 5G",
+      "SAMSUNG M15 5G",
+      "SAMSUNG M34 5G"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H36",
+    "title": "A35",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A354G",
+      "SAMSUNG A355G",
+      "SAMSUNG A555G",
+      "SAMSUNG A56",
+      "SAMSUNG M35",
+      "SAMSUNGQUANTUM5"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H37",
+    "title": "GT6",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "OPPO REALME GT6",
+      "OPPO REALME GT 7",
+      "OPPO REALME GT 7T",
+      "NOTHING PHONE 2 PRO",
+      "NOTHING PHONE 3A",
+      "NOTHING PHONE 3A PRO",
+      "OPPO REALME NEO 7 不解锁",
+      "ONE PLUS ACE 5",
+      "ONE PLUS ACE 5 PRO",
+      "REDMI TURBO 4 PRO",
+      "IQOO Z10 TURBO PRO",
+      " ONE PLUS 13R",
+      "ONE PLUS NORD CE5"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H38",
+    "title": "Redmagic8pro",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "NUBIA RED MAGIC 8 PRO",
+      "NUBIA RED MAGIC 9 PRO",
+      "NUBIA RED MAGIC 10 PRO",
+      "NUBIA RED MAGIC AIR",
+      "NUBIA Z50 ULTRA",
+      "NUBIA Z60 ULTRA"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H39",
+    "title": "VIVO X50",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "VIVO  IQOO5 5G",
+      "VIVO X50",
+      "VIVO X60",
+      "VIVO X60T",
+      "VIVO X70",
+      "NOTHING PHONE 1"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H40",
+    "title": "8X",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "HUAWEI  HONOR 8X",
+      "HUAWEI  HONOR 9XLITE",
+      "HUAWEI  ENJOY 9PLUS",
+      "畅享9+",
+      "HUAWEI Y8S",
+      "HUAWEI Y9 2019"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H41",
+    "title": "A51",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A51",
+      "SAMSUNG A52",
+      "SAMSUNG A52S",
+      "SAMSUNG M31S"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H42",
+    "title": "HOR20lite",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "HUAWEI  HONOR 30I",
+      "HUAWEI  HONOR PLAY 4T PRO",
+      "HUAWEI  ENJOY 10S",
+      "畅享10S",
+      "HUAWEI  ENJOY 20E",
+      "HUAWEI  HONOR 20 LITE(中国)",
+      "HUAWEI P SMARTS",
+      "HUAWEI Y8P"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H43",
+    "title": "IQOO NEO 10解锁",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "VIVO  IQOO NEO  9S PRO+",
+      "VIVO  IQOO NEO  10",
+      "VIVO  IQOO NEO  10 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H44",
+    "title": "MATE50",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG S2 不解锁",
+      "HUAWEI MATE50",
+      "NOTHING PHONE 2",
+      "NOTHING PHONE CM F1"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H45",
+    "title": "NOVA 3",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "HUAWEI MATE 20 LITE",
+      "HUAWEI NOVA 3",
+      "HUAWEI NOVA 3I",
+      "HUAWEI PSMART+2018"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H46",
+    "title": "P30lite",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "XIAOMI  CC9E",
+      "XIAOMI  A3",
+      "HUAWEI NOVA 4E",
+      "HUAWEI P30 LITE"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H47",
+    "title": "RENO6",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "OPPO RENO 6 4G",
+      "OPPO RENO 6 5G",
+      "OPPO RENO 6 LITE",
+      "OPPO RENO  6Z"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H48",
+    "title": "S24FE",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A36 5G",
+      "SAMSUNG M56",
+      "SAMSUNG S25FE",
+      "SAMSUNG S24FE 5G",
+      "REDMI TURBO 4PRO",
+      "SAMSUNG A37 5G",
+      "SAMSUNG A56",
+      "SAMSUNG A57",
+      "XIAOMI POCO F7",
+      "OPPO F31 PRO+",
+      "OPPO RENO 14 PRO",
+      "ONE PLUS NORD 5",
+      "ONE PLUS ACE 5 至尊版"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H49",
+    "title": "A16",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A16",
+      "SAMSUNG A26",
+      "SAMSUNG M16 5G",
+      "SAMSUNG M36",
+      "SAMSUNG A17"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H50",
+    "title": "A54",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A54 5G",
+      "SAMSUNG S23FE 5G",
+      "SAMSUNG S23+不解锁"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H51",
+    "title": "E32",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "MOTO E32",
+      "MOTO E32(INDIA)",
+      "MOTO E32S"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H52",
+    "title": "HOT 10",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "TENCO POVA NEO  5G",
+      "TENCO POVA NEO 2",
+      "LG6N",
+      "TENCO POVA NEO 3",
+      "LH 6N"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H53",
+    "title": "IQOO 13解锁",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "VIVO  IQOO 13",
+      "VIVO X200 ULTRA",
+      "OPPO FIND X8 ULTRA",
+      "OPPO REALME NEO 7 解锁"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H54",
+    "title": "MI 13",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "XIAOMI 13",
+      "XIAOMI  14",
+      "XIAOMI 15 不解锁",
+      "MOTO EDGE 50 NEO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H55",
+    "title": "PURA 70",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "HUAWEI PURA 70"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H56",
+    "title": "RM 13C",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "XIAOMI  POCO C65",
+      "REDMI 13C",
+      "REDMI 13R",
+      "HUAWEI  ENJOY 70 PLUS",
+      "XIAOMI MI POCO M6 5G",
+      "SAMSUNG A06",
+      "SAMSUNG A07",
+      "SAMSUNG A08",
+      "SAMSUNG F07",
+      "SAMSUNG F17 5G"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H57",
+    "title": "RM 15",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "REDMI 15"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H58",
+    "title": "Mi 17 专用解锁",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "XIAOMI MI 17"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H59",
+    "title": "A03s(166mm)美版",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A02S(166MM)美版",
+      "SAMSUNG A03S(166MM）"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H60",
+    "title": "A11",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A11",
+      "SAMSUNG M11"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H61",
+    "title": "A21",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A21",
+      "SAMSUNG A21S"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H62",
+    "title": "A22 5G",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A22 5G",
+      "SAMSUNG A22S 5G",
+      "SAMSUNG F42 5G"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H63",
+    "title": "ENJOY 60X",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "HUAWEI ENJOY 60X",
+      "HUAWEI NOVA Y91"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H64",
+    "title": "K80专用解锁",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "REDMI K80",
+      "REDMI K80 PRO",
+      "OPPO REALME GT7"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H65",
+    "title": "Magic7专用解锁",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "HUAWEI  HONOR GT PRO",
+      "HUAWEI MAGIC 7"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H66",
+    "title": "Nova 5i",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "HUAWEI NOVA 5I",
+      "HUAWEI P20 LITE 2019",
+      "HUAWEI NOVA 6SE",
+      "HUAWEI NOVA 7I"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H67",
+    "title": "小米17pro解锁",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "XIAOMI 17 PRO",
+      " OPPO RENO 15"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H68",
+    "title": "小米17promax",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "XIAOMI 17 PROMAX",
+      "REDMI K90 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H69",
+    "title": "Pixel9",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "PIXEL 9",
+      "PIXEL 9 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H70",
+    "title": "Pixel9 PROFOLD",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "PIXEL 9 PRO FOLD",
+      "PIXEL 9A"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H71",
+    "title": "S20FE",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG S20 FE",
+      "SAMSUNG S20 FE 5G"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H72",
+    "title": "S22+/S23+",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG S22+",
+      "SAMSUNG S23+"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H73",
+    "title": "S22/S23",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG S22",
+      "SAMSUNG S23"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H74",
+    "title": "S24",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG S24",
+      "SAMSUNG S25"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H75",
+    "title": "S24+",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG S24+",
+      "SAMSUNG S25+"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H76",
+    "title": "X200PROMINI",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "VIVO X200 PRO MINI",
+      "OPPO FIND X8S",
+      "VIVO X200FE",
+      "VIVO X300不解锁",
+      "OPPO RENO15不解锁"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H77",
+    "title": "XIAOMI9SE",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "XIAOMI  9SE",
+      "XIAOMI  PLAY",
+      "HUAWEI  HONOR 8S",
+      "HUAWEI  HONOR 8S 2020",
+      "HUAWEI  HONOR 8S PRIME",
+      "HUAWEI  HONOR PLAY 3E",
+      "HUAWEI Y5 2019"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H78",
+    "title": "A34",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A34 5G"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H79",
+    "title": "A40",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A40"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H80",
+    "title": "A53 5G",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A53 5G"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H81",
+    "title": "S21 FE",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG S21FE"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H82",
+    "title": "S21",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG S21"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H83",
+    "title": "S21+",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG S2"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H84",
+    "title": "S24 ULTRA",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG S24 ULTRA"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H85",
+    "title": "S25 ULTRA",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG S25 ULTRA"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H86",
+    "title": "Mi 15 专用解锁",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "XIAOMI  15"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H87",
+    "title": "S20解锁",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "VIVO S20",
+      "VIVO Y500 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H88",
+    "title": "RM15C",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "REDMI 15C",
+      "REDMI 15C 国际版",
+      "XIAOMI MI POCO C85"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H89",
+    "title": "K90解锁",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "REDMI K90"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H90",
+    "title": "REDMI K80 ULTRA",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "REDMI K80 ULTRA"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H91",
+    "title": "NOVA5iPRO",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "HUAWEI NOVA5I PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H92",
+    "title": "红魔7pro",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "RED MAGIC 7 PRO",
+      "VIVO Y31 5G",
+      "HUAWEI HONOR PLAY 50PLUS",
+      "HUAWEI HONOR PLAY 60PLUS",
+      "HUAWEI HONOR PLAY 70PLUS",
+      "HUAWEI ENJOY 50 PLUS"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H93",
+    "title": "RM NOTE 15 PRO",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "REDMI 15 PRO",
+      "OPPO REALME C85 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H94",
+    "title": "P40",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "HUAWEI P40 4G"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H95",
+    "title": "P70",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "HUAWEI P70",
+      "OPPO RENO  13",
+      "OPPO RENO  14",
+      "OPPO FIND X8",
+      "OPPO FIND X8 S+"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H96",
+    "title": "Pixel6",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "PIXEL 6"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H97",
+    "title": "pixel6A",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "PIXEL 6A"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H98",
+    "title": "Pixel7",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "PIXEL 7"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO H99",
+    "title": "Pixel7A",
+    "category": "UNIPRO #1 VELA TEMPERED GLASS",
+    "mobiles": [
+      "PIXEL 7A"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V01",
+    "title": "A11",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "OPPO A11",
+      "OPPO A56",
+      "OPPO A8",
+      "OPPO A11X",
+      "OPPO A55",
+      "OPPO A35",
+      "REALME V3",
+      "REALME V11",
+      "REALME V11S",
+      "REALME Q2i",
+      "REALME 5",
+      "REALME 5i",
+      "REALME 5S",
+      "REALME 6i",
+      "REDMI 10X 5G",
+      "REDMI 10X PRO",
+      "XIAOMI 10 YOUTH",
+      "REDMI 9",
+      "IQOO U1X",
+      "VIVO Y20",
+      "VIVO Y30",
+      "VIVO Y31S",
+      "VIVO Y32",
+      "VIVO Y33S",
+      "ENJOY PLAY 20",
+      "HONOR PLAY 5T",
+      "麦芒10SE",
+      "ENJOY 30E",
+      "VIVO Y52S",
+      "VIVO Y76S",
+      "IQOO U3",
+      "IQOO Z3",
+      "IQOO Z5X",
+      "IQOO U3X",
+      "VIVO Y53S",
+      "VIVO T1X",
+      "VIVO Y01",
+      "OPPO A57(5G)",
+      "ENJOY 20",
+      "HONOR PLAY 5T 活力",
+      "REDMI 9A",
+      "ENJOY PLAY 30",
+      "VIVO Y55S",
+      "VIVO Y10",
+      "ENJOY PLAY 20 PRO",
+      "IQOO U5X",
+      "REDMI 10A",
+      "REDMI NOTE 11E",
+      "IQOO U5E",
+      "REALME V23",
+      "OPP A97",
+      "OPPO A77（5G）",
+      "IQOO Z6X",
+      "VIVO Y75S",
+      "VIVO Y73T",
+      "OPPO A58",
+      "VIVO Y77E",
+      "VIVO Y35",
+      "VIVO Y33E",
+      "OPPO A58X",
+      "VIVO T2X",
+      "HONOR PLAY 6C",
+      "REALME 10",
+      "REALME V30",
+      "IQOO Z7i",
+      "OPPO A1X 5G",
+      "VIVO Y11 2023",
+      "VIVO Y02A",
+      "ENJOY 50Z",
+      "ENJOY PLAY 40",
+      "OPPO A56s",
+      "VIVO Y35+",
+      "VIVO Y35M",
+      "麦芒A20",
+      "OPPO A1 活力版",
+      "ENJOY PLAY 40S",
+      "REDMI NOTE11R",
+      "OPPO A2X",
+      "VIVO Y36 5G",
+      "OPPO A2M",
+      "VIVO Y36M",
+      "ENJOY PLAY 50",
+      "ENJOY PLAY 50M",
+      "ENJOY PLAY 40C",
+      "VIVO Y37",
+      "VIVO Y37M",
+      "VIVO Y36T",
+      "VIVO Y33T(4G)",
+      "ENJOY PLAY 20A",
+      "ENJOY 80S",
+      "ENJOY 80"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V02",
+    "title": "HUAWEI NOVA 9SE",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "HUAWEI NOVA 9SE",
+      "HUAWEI SE 5G",
+      "HUAWEI NOVA 10 YOUTH",
+      "HUAWEI NOVA 11i",
+      "HUAWEI 麦芒20",
+      "HONOR 50SE",
+      "IQOO NEO 7",
+      "IQOO NEO 7SE",
+      "IQOO NEO 7 RACING",
+      "IQOO NEO 7 PRO",
+      "IQOO NEO 8",
+      "IQOO NEO 8 PRO",
+      "IQOO 9(CHINA)",
+      "IQOO 10",
+      "IQOO 11S",
+      "IQOO 12",
+      "HONOR X9",
+      "IQOO 9",
+      "NOVA 9SE",
+      "IQOO Neo7",
+      "REDMI NOTE12",
+      "IQOO 11",
+      "Hi NOVA 9SE",
+      "IQOO Neo7 se",
+      "OPPO A1 5G",
+      "ENJOY 60 PRO",
+      "IQOO NEO8",
+      "IQOO NEO8 PRO",
+      "OPPO K11X",
+      "NOVA11i",
+      "A98",
+      "OPPO A2",
+      "IQOO NEO9",
+      "IQOONEO9 PRO",
+      "Y200i",
+      "S19",
+      "IQOOZ9",
+      "REALME V50",
+      "IQOO Neo9S PRO",
+      "IQOO Z9X",
+      "A3活力版",
+      "REALME V60",
+      "OPPO A3X",
+      "Y200T",
+      "Vivo X100s",
+      "Y37 PRO",
+      "IOOQ Z9 TURBO",
+      "REALME V60S",
+      "REALME 12",
+      "REALME 12X",
+      "OPPO A3i",
+      "Y200GT",
+      "Y300i",
+      "OPPO A5活力版",
+      "ENJOY 80",
+      "IQOO Z10 TURBO PRO",
+      "IQOO Z10 TURBO",
+      "OPPO A5x",
+      "IOOQ Z9 TURBO+",
+      "IQOO Z10X",
+      "IQOO Neo7竞速版",
+      "OPPO A6i"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V03",
+    "title": "HUAWEI NOVA Y70",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "HUAWEI NOVA Y70",
+      "HUAWEI Y70 PLUS",
+      "HUAWEI Y71",
+      "HUAWEI ENJOY 50",
+      "HUAWEI ENJOY 60",
+      "HUAWEI ENJOY 70",
+      "HONOR X7",
+      "X7A",
+      "HUAWEI PLAY 30 PLUS",
+      "HUAWEI PLAY 40 PLUS",
+      "HUAWEI PLAY 7T",
+      "REALME C51",
+      "REALME C53",
+      "REALME NARZO N53",
+      "SAMSUNG A05",
+      "XIAOMI POCO C65",
+      "REDMI 13C"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V04",
+    "title": "HUAWEI NOVA Y90",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "HUAWEI NOVA Y90",
+      "HUAWEI ENJOY 50 PRO",
+      "HONOR X7B",
+      "HONOR X8 4G",
+      "HONOR X8A",
+      "HONOR X30i",
+      "HONOR X40i",
+      "HONOR X50i",
+      "HONOR PLAY 6T PRO",
+      "HONOR PLAY 7T PRO",
+      "HONOR PLAY 8T",
+      "HONOR PLAY 50 PLUS",
+      "HONOR 90 LITE"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V05",
+    "title": "ONE PLUS NORD CE 5G",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "ONE PLUS NORD CE 5G",
+      "ONE NORD 2 5G",
+      "ONE NORD 2T",
+      "OPPO REALME X7 MAX 5G",
+      "REALME GT 5GREALME GT MASTER",
+      "REALME GT NEO",
+      "REALME GT NEO 2T",
+      "REALME GT NEO FLASH",
+      "RENO 5 4G(5G)",
+      "RENO 5 5K",
+      "RENO 6 4G(5G)RENO 7 5G",
+      "RENO7 5G CHINA",
+      "OPPO K9"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V06",
+    "title": "ONE PLUS NORD CE 5G",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "ONE PLUS NORD CE3 LITE 5G",
+      "ONE PLUS NORD N30 5G",
+      "REALME C55",
+      "REALME 11 5G",
+      "REALME 11X",
+      "REALME NARZO N55",
+      "REALME NARZO 60X",
+      "OPPO A1",
+      "OPPO A2",
+      "OPPO F23 5G",
+      "OPPO A58 4G",
+      "OPPO A79 5G",
+      "OPPO A98 5G",
+      "OPPO K11X",
+      "REDMI NOTE 12 4G",
+      "REDMI 5G",
+      "REDMI NOTE 12R PRO",
+      "REDMI POCO X5"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V07",
+    "title": "OPPO A91",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "OPPO A91",
+      "OPPO F15",
+      "OPPO F17",
+      "OPPO A73",
+      "OPPO RENO 3",
+      "VIVO V20",
+      "VIVO V20SE",
+      "VIVO V21E 4G",
+      "VIVO 5G",
+      "VIVO V23E",
+      "VIVO V23E 5G",
+      "VIVO S10E",
+      "VIVO T1 680",
+      "VIVO T1 44W",
+      "VIVO Y71T",
+      "VIVO Y73",
+      "VIVO Y73S",
+      "VIVO Y75 4G",
+      "VIVO IQOO Z6 44W",
+      "OPPO S6",
+      "OPPO K7",
+      "Y73S",
+      "S7E",
+      "ENJOY Z",
+      "ENJOY 20 PRO",
+      "HONOR 30 YOUTH",
+      "Y71T"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V08",
+    "title": "OPPO A93 5G",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "OPPO A93 5G",
+      "OPPO A74 5G",
+      "OPPO A73 5G",
+      "OPPO A72 5G",
+      "OPPO A53 5G",
+      "OPPO A54 5G",
+      "OPPO A93S 5G",
+      "OPPO REALME 8 5G",
+      "OPPO 8S 5G",
+      "OPPO REALME 9 5G(INDIA)"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V09",
+    "title": "OPPO F11 PRO",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "OPPO F11 PRO",
+      "OPPO K3",
+      "OPPO REALME X",
+      "RM NOTE 9",
+      "OPPO 9 5G",
+      "OPPO 9T 5G",
+      "REDMI 10X 4G",
+      "VIVO V15",
+      "VIVO Z1 PRO",
+      "VIVO Y30",
+      "VIVO Y50",
+      "VIVO Y50T",
+      "VIVO Y51S",
+      "VIVO Y70S",
+      "VIVO Y70T",
+      "VIVO Z5X 2020",
+      "VIVO IQOO U1",
+      "SAMSUNG A11",
+      "SAMSUNG  M11"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V10",
+    "title": "OPPO F19",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "OPPO F19",
+      "OPPO F19S",
+      "OPPO F19 PRO",
+      "OPPO F19 PRO+ 5G",
+      "OPPO F21 PRO 4G(5G)",
+      "OPPO F21S PRO 4G(5G)",
+      "OPPO A74 4G",
+      "OPPO A78 4G",
+      "OPPO A94 4G",
+      "OPPO 5G",
+      "OPPO A95",
+      "OPPO 4G",
+      "OPPO A96 5G CHINA",
+      "FIND X5 LITE",
+      "RENO 5F",
+      "RENO 5Z",
+      "RENO 5 LITE",
+      "RENO 6Z",
+      "RENO 7 4G",
+      "RENO 7 SE 5G",
+      "RENO 7Z 5G",
+      "RENO 7 LITE",
+      "RENO 8 4G(5G)",
+      "RENO 8Z 5G",
+      "RENO 8T 4G",
+      "RENO 8 LITE 5G",
+      "RENO 8 4G",
+      "RENO 8 PRO 4G",
+      "RENO 9 4G",
+      "RENO 9 PRO+",
+      "RENO 10 4G",
+      "RENO 11",
+      "RENO 11 4G",
+      "FIND X7",
+      "RENO 7 PRO",
+      "REALME NARZO 50 PRO",
+      "REALME NARZO 60",
+      "REALME V15 5G",
+      "ONE PLUS NORD CE 2 5G"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V100",
+    "title": "REDMI 15 T",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "REDMI 15 T",
+      "REDMI 15 T PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V101",
+    "title": "SAMSUNG S25 FE",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG S25 FE"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V102",
+    "title": "SAMSUNG S26",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG S26"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V103",
+    "title": "SAMSUNG S26 PLUS",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG S26 PLUS"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V104",
+    "title": "SAMSUNG S26 ULTRA",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG S26 ULTRA"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V105",
+    "title": "IP 6/7/8",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 6",
+      "IPHONE 7",
+      "IPHONE 8"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V106",
+    "title": "IP 6P/7P/8P",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 6P",
+      "IPHONE 7P",
+      "IPHONE 8P"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V107",
+    "title": "IP X/XS/11 PRO",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE X",
+      "IPHONE XS",
+      "IPHONE 11 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V108",
+    "title": "IP XR/11",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE XR",
+      "IPHONE 11"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V109",
+    "title": "IP XS MAX/11 PRO MAX",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE XS MAX",
+      "IPHONE 11 PRO MAX"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V11",
+    "title": "OPPO F9",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "OPPO F9",
+      "OPPO F9 PRO",
+      "OPPO R17",
+      "OPPO K1",
+      "OPPO RX17 PRO",
+      "OPPO REALME XT",
+      "REALME X2",
+      "REALME 2PRO",
+      "REALME 3 PRO",
+      "REALME 5 PRO",
+      "XIAOMI 9",
+      "XIAOMI 9 LITE",
+      "XIAOMI CC9",
+      "ONE PLUS 6T",
+      "ONE PLUS 7",
+      "SAMSUNG M20 ",
+      "VIVO X23",
+      "VIVO X21S",
+      "IQOO",
+      "IQOO PRO",
+      "OPPO R15X",
+      "OPPO K5",
+      "RENO Z",
+      "REDMI 7",
+      "HUAWEI NOVA 5",
+      "HUAWEI NOVA 5 PRO",
+      "ENJOY 9",
+      "REDMI NOTE 7",
+      "REDMI NOTE 7 PRO",
+      "REDMI NOTE 8",
+      "XIAOMI 9 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V110",
+    "title": "IP 12 MINI",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 12 MINI"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V111",
+    "title": "IP 12/12 PRO",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 12",
+      "IPHONE 12 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V112",
+    "title": "IP 12 PRO MAX",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 12 PRO MAX"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V113",
+    "title": "IP 13 MINI",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 13 MINI"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V114",
+    "title": "IP 13/13 PRO/14",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 13",
+      "IPHONE 13 PRO",
+      "IPHONE 14",
+      "IPHONE SE4 2025",
+      "IPHONE 16E"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V115",
+    "title": "IP 13 PRO MAX/14 PLUS",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 13 PRO MAX",
+      "IPHONE 14 PLUS"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V116",
+    "title": "IP 14 PRO",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 14 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V117",
+    "title": "IP 14 PRO MAX",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 14 PRO MAX"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V118",
+    "title": "IP 15 PRO",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 15 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V119",
+    "title": "IP 15 PRO MAX",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 15 PRO MAX"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V12",
+    "title": "OPPO K10",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "OPPO K10",
+      "OPPO K10 5G(CHINA)",
+      "OPPO A32",
+      "OPPO A33 2020",
+      "OPPO A36",
+      "OPPO A53 4G",
+      "OPPO A53S",
+      "OPPO A54 4G",
+      "OPPO A55 4G",
+      "OPPO A76",
+      "OPPO A92S",
+      "OPPO A96 4G",
+      "RENO 4Z 5G",
+      "OPPO REALME 6 PRO",
+      "OPPO REALME 7I",
+      "OPPO REALME 8I",
+      "OPPO REALME 9I",
+      "OPPO REALME 9 PRO",
+      "OPPO REALME 9 5G",
+      "OPPO REALME 9 5G SE",
+      "OPPO REALME 9 5G SPEED",
+      "OPPO REALME X3",
+      "OPPO REALME Q3S",
+      "OPPO REALME Q5",
+      "OPPO REALME C17",
+      "OPPO REALME X50 5G",
+      "OPPO REALME V25",
+      "OPPO REALME NARZO 50",
+      "OPPO REALME K9S 5G",
+      "XIAOMI POCO X3 GT",
+      "REDMI NOTE 10 PRO(CHINA)",
+      "VIVO Z6 5G",
+      "IQOO NEO3 5G",
+      "SAMSUNG A21S",
+      "SAMSUNG F52 5G",
+      "SAMSUNG A11(USA)",
+      "ONE PLUS NORD CE 2 LITE 5G",
+      "ONE PLUS NORD N100",
+      "ONE  PLUS ACE RACING",
+      "TECNO SPARK 7 PRO",
+      "TECNO SPARK 20",
+      "TECNO 20C",
+      "TECNO GO 2024",
+      "TECNO POP 8",
+      "INFINIX Smart 8"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V120",
+    "title": "IP 15",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 15",
+      "IPHONE 16"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V121",
+    "title": "IP 15 PLUS",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 15 PLUS",
+      "IPHONE 16 PLUS"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V122",
+    "title": "IP 16 PRO",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 16 PRO",
+      "IPHONE 17"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V123",
+    "title": "IP 16 PRO MAX",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 16 PRO MAX"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V124",
+    "title": "IP 17",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 17"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V125",
+    "title": "IP 17 AIR",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE  17 AIR"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V126",
+    "title": "IP 17 PRO",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE  17 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V127",
+    "title": "IP 17 PRO MAX",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE  17 PRO MAX"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V13",
+    "title": "OPPO R15",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "OPPO R15",
+      "OPPO F7",
+      "OPPO A5",
+      "OPPO A3",
+      "OPPO A3S",
+      "OPPO A12E",
+      "OPPO AX5",
+      "OPPO REALME Realme 2",
+      "OPPO C1",
+      "VIVO Y81",
+      "VIVO Y81S",
+      "VIVO Y81i",
+      "VIVO Y83",
+      "VIVO Y83 Pro",
+      "VIVO Y85",
+      "VIVO Z1 Lite",
+      "VIVO V9",
+      "VIVO V9 pro",
+      "VIVO V9 Youth",
+      "VIVO Z1",
+      "VIVO Z1i",
+      "VIVO Z3X",
+      "VIVO X21",
+      "XIAOMI MI 8 LITE",
+      "XIAOMI MI 8 youth",
+      "ONE PLUS 6",
+      "OPPO R15 PRO",
+      "VIVO X21i",
+      "REDMI NOTE 6",
+      "XIAOMI 8 YOUTH"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V14",
+    "title": "OPPO REALME 5",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "REALME 5",
+      "REALME 5S",
+      "REALME 5I",
+      "REALME 6I",
+      "REALME 9I 5G",
+      "REALME 10 5G",
+      "REALME 10S 5G",
+      "REALME 10T 5G",
+      "REALME C3",
+      "REALME C3i",
+      "REALME C11",
+      "REALME C11 2021",
+      "REALME C12",
+      "REALME C15",
+      "REALME C20",
+      "REALME C21",
+      "REALME C21Y",
+      "REALME C25",
+      "REALME C25Y",
+      "REALME C25S",
+      "REALME C30",
+      "REALME C30S",
+      "REALME C31",
+      "REALME C33",
+      "REALME C33 2023",
+      "REALME C35",
+      "REALME Q5I",
+      "OPPO K10 5G",
+      "OPPO A1X 2023",
+      "OPPO A2X",
+      "OPPO  A2M",
+      "OPPO A5 2020",
+      "OPPO A8",
+      "OPPO A9 2020",
+      "OPPO A11",
+      "OPPO A15",
+      "OPPO A15S",
+      "OPPO A16",
+      "OPPO A16S",
+      "OPPO A16K",
+      "OPPO A16E",
+      "OPPO A17",
+      "OPPO A17K",
+      "OPPO A18",
+      "OPPO A31",
+      "OPPO A35",
+      "OPPO A38",
+      "OPPO A54S",
+      "OPPO A53S 5G",
+      "OPPO A55 5G",
+      "OPPO A55S",
+      "OPPO A56 5G",
+      "OPPO A56S",
+      "OPPO A57 4G",
+      "OPPO A57 5G",
+      "OPPO A57E",
+      "OPPO A57S",
+      "OPPO A58 5G",
+      "OPPO A58X",
+      "OPPO A77 4G",
+      "OPPO A77 5G",
+      "OPPO A77S",
+      "OPPO A78 5G",
+      "OPPO A97",
+      "VIVO V11 5G",
+      "VIVO V20",
+      "VIVO V23",
+      "VIVO V23i 5G",
+      "VIVO V30",
+      "NARZO 10",
+      "NARZO 10A",
+      "NARZO 20",
+      "NARZO 20A",
+      "NARZO 30A",
+      "NARZO 50 5G",
+      "NARZO 50A",
+      "NARZO 50I",
+      "NARZO 50i PRIME",
+      "NARZO 50A PRIME"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V15",
+    "title": "OPPO REALME 6",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "REALME 6",
+      "REALME 6S",
+      "REALME 7 5G",
+      "REALME 7(ASIA)",
+      "REALME 7(GLOBAL)",
+      "REALME X7 PRO",
+      "REALME NARZO 20 PRO",
+      "REALME NARZO 30 5G",
+      "REALME NARZO 30 PRO 5G",
+      "OPPOA52 4G",
+      "OPPO A92 4G",
+      "RENO 2",
+      "RENO 2Z",
+      "RENO 2F",
+      "OPPO K7X",
+      "ONE PLUS NORD N10",
+      "ONE PLUS NORD N200",
+      "HUAWEI NOVA 7",
+      "HUAWEI NOVE 7SE",
+      "HUAWEI NOVA 10Z",
+      "HUAWEI P40 LITE 5G",
+      "HONOR 30",
+      "HONOR 30S",
+      "HONOR V30",
+      "HONOR V30 PRO",
+      "HUAWEI NOVA 6",
+      "MOTO G54"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V16",
+    "title": "OPPO REALME C2",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "OPPO REALME C2",
+      "REALME C2 2022",
+      "REALME C2S",
+      "OPPO REALME A1K"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V17",
+    "title": "OPPO REALME GT 2 PRO",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "OPPO REALME GT 2 PRO",
+      "OPPO REALME GT NEO3",
+      "ONE PLUS 10R",
+      "ONE PLUS 10T 5G",
+      "ONE PLUS ACE",
+      "ONE PLUS ACE PRO",
+      "RENO 8 PRO",
+      "RENO 8 PRO+",
+      "REDMI K60",
+      "REDMI K60 PRO",
+      "REDMI POCO F5 PRO",
+      "HONOR X10",
+      "HONOR ENJOY 20 PLUS",
+      "HUAWEI Y9A"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V18",
+    "title": "OPPO REALME X50 PRO",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "OPPO REALME X50 PRO",
+      "OPPO RENO 3 PRO 4G",
+      "VIVO V17",
+      "VIVO V17 PRO",
+      "VIVO V19 NEO",
+      "VIVO X30",
+      "VIVO X30 PRO",
+      "VIVO S5",
+      "RENO 5",
+      "RENO 6",
+      "IQOO3",
+      "RENO 5K",
+      "RENO 7",
+      "OPPO K9",
+      "OPPO K9 PRO",
+      "REALME GT NEO 2T",
+      "REALME Q3 PRO",
+      "REALME GT",
+      "REALME GT NEO",
+      "REALME X50 PRO",
+      "ENJOY 10",
+      "HONOR PLAY 3",
+      "HONOR PLAY 4T"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V19",
+    "title": "REDMI 10C",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "REDMI 10C",
+      "REDMI 10 INDIA",
+      "REDMI 10 POWER",
+      "REDMI 12C",
+      "REDMI 11A",
+      "XIAOMI POCO C40",
+      "POCO C55"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V20",
+    "title": "REDMI 10 4G",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "REDMI 10 4G",
+      "REDMI 10 2022",
+      "REDMI 10 PRIME",
+      "REDMI 10 PRIME 2022",
+      "REDMI NOTE 10 5G",
+      "REDMI 10T 5G",
+      "REDMI NOTE 11 4G",
+      "REDMI NOTE 11SE",
+      "REDMI POCO M3 PRO",
+      "REDMI M3 PRO 5G"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V21",
+    "title": "REDMI 10A",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "REDMI 10A",
+      "REDMI 9A",
+      "REDMI 9A SPORT",
+      "REDMI 9C",
+      "REDMI 9C NFC",
+      "REDMI 9I",
+      "REDMI 9I SPORT",
+      "REDMI 9 (INDIA)",
+      "REDMI 9 ACTIV",
+      "XIAOMI POCO C3",
+      "POCO C31",
+      "VIVO Y27 4G(5G)",
+      "VIVO Y27S(Indonesia)",
+      "VIVO Y35+",
+      "VIVO Y36 (INDIA)",
+      "VIVO Y55T"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V22",
+    "title": "REDMI 12 4G",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "REDMI 12 4G(5G)",
+      "REDMI NOTE 12R",
+      "REDMI POCO M6 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V23",
+    "title": "REDMI 9 GLOBAL",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "REDMI 9 GLOBAL",
+      "REDMI 9 PRIME",
+      "XIAOMI POCO M2",
+      "SAMSUNG A20S"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V24",
+    "title": "REDMI K30",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "REDMI K30",
+      "REDMI K30 5G",
+      "REDMI K30S",
+      "REDMI K30 PRO",
+      "REDMI K30 ULTRA",
+      "REDMI NOTE 9 PRO",
+      "REDMI 9 PRO MAX",
+      "REDMI 9S",
+      "REDMI 10 LITE",
+      "XIAOMI 10I 5G",
+      "XIAOMI 10T 5G",
+      "XIAOMI 10 LITE 5G",
+      "XIAOMI 10T PRO 5G",
+      "XIAOMI POCO X2",
+      "POCO X3",
+      "POCO X3 PRO",
+      "POCO X3 NFC",
+      "PCOC M2 PRO",
+      "XIAOMI 11T",
+      "XIAOMI 11T PRO",
+      "VIVO T1(CHINA)",
+      "VIVO Y27S",
+      "VIVO Y36 4G(5G)",
+      "VIVO Y77(CHINA)",
+      "VIVO Y77T",
+      "VIVO Y78(CHINA)",
+      "VIVO Y78T",
+      "VIVO Y100i",
+      "IQOO Z5",
+      "IQOO Z6(CHINA)",
+      "IQOO Z7 (CHINA)",
+      "IQOO Z7X",
+      "IQOO Z8",
+      "IQOO Z8X",
+      "IQOO NEO5",
+      "IQOO NEO5 SE",
+      "HUAWEI P SMART 2021",
+      "HUAWEI Y7A",
+      "ENJOY 20SE",
+      "HONOR X10 LITE",
+      "REALME GT3",
+      "REALME GT NEO 5",
+      "SAMSUNG A72",
+      "SAMSUNG A80",
+      "SAMSUNG A90"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V25",
+    "title": "REDMI NOTE 10 4G",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "REDMI NOTE 10 4G",
+      "NOTE 10S",
+      "NOTE 11 2022",
+      "11S 2022",
+      "NOTE 12S",
+      "NOTE 11SE (india)",
+      "XIAOMI POCO M4 PRO 2022",
+      "M5S"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V26",
+    "title": "REDMI NOTE 10 PRO",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "REDMI NOTE 10 PRO",
+      "REDMI NOTE 10 PRO MAX",
+      "REDMI NOTE 11 PRO CHINA",
+      "REDMI NOTE 11 PRO+5G",
+      "REDMI NOTE 11 PRO 4G",
+      "REDMI NOTE 11 PRO 5G 2022",
+      "REDMI NOTE 11E PRO",
+      "REDMI K40",
+      "REDMI K40S",
+      "REDMI K40 PRO",
+      "REDMI K40 PRO+",
+      "REDMI K50",
+      "REDMI K50 PRO",
+      "REDMI K50 ULTRA",
+      "REDMI K60 Ultra",
+      "REDMI K60E",
+      "XIAOMI 11X",
+      "XIAOMI 11X PRO",
+      "XIAOMI 11i",
+      "XIAOMI 11i HYP",
+      "XIAOMI 12T",
+      "XIAOMI 12T PRO",
+      "XIAOMI 13T",
+      "XIAOMI 13T PRO",
+      "XIAOMI BLACK SHARK 4",
+      "XIAOMI BLACK SHARK 4 PRO",
+      "XIAOMI POCO F3",
+      "XIAOMI POCO F4",
+      "XIAOMI POCO X4 PRO 5G",
+      "INFINIX HOT 9"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V27",
+    "title": "REDMI NOTE 11 5G",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "REDMI NOTE 11 5G CHINA",
+      "REDMI NOTE 11T 5G 2021",
+      "REDMI NOTE 11S 5G",
+      "POCO M4 PRO 5G"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V28",
+    "title": "REDMI NOTE 11T PRO",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "REDMI NOTE 11T PRO",
+      "REDMI NOTE 11T PRO+",
+      "REDMI NOTE 12T PRO",
+      "REDMI K50i",
+      "POCO X4 GT"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V29",
+    "title": "REDMI NOTE 12",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "REDMI NOTE 12 TURBO",
+      "REDMI NOTE 13 5G",
+      "REDMI NOTE 13R PRO",
+      "REDMI POCO F5",
+      "INFINX NOTE 30 PRO",
+      "INFINX NOTE 30 VIP",
+      "INFINX GT 10 PRO",
+      "TECNO CAMON 20 PRIME 5G"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V30",
+    "title": "REDMI NOTE 8 PRO",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "REDMI NOTE 8 PRO",
+      "REDMI 9T",
+      "REDMI NOTE 9 4G",
+      "REDMI 9 POWER",
+      "XIAOMI POCO M3",
+      "OPPO F11",
+      "OPPO A9",
+      "RENO ACE",
+      "REALME X2 PRO",
+      "VIVO U20",
+      "VIVO Y5S",
+      "VIVO Y19",
+      "VIVO U3",
+      "VIVO Z5I",
+      "ONE PLUS 7T"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V31",
+    "title": "REDMI NOTE 7",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "RREDMI NOTE 7",
+      "7 PRO",
+      "7S",
+      "Y3"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V32",
+    "title": "SAMSUNG A05S",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A05S"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V33",
+    "title": "SAMSUNG A12",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A12",
+      "SAMSUNG A02",
+      "SAMSUNG A02S",
+      "SAMSUNG A03",
+      "SAMSUNG A03S",
+      "SAMSUNG A13 4G",
+      "SAMSUNG A13 5G",
+      "SAMSUNG A03 CORE",
+      "SAMSUNG A04",
+      "SAMSUNG A04S",
+      "SAMSUNG A04E 4G",
+      "SAMSUNG A04 CORE",
+      "SAMSUNG A23",
+      "SAMSUNG A23 5G",
+      "SAMSUNG A32 5G",
+      "SAMSUNG M02",
+      "SAMSUNG M02S",
+      "SAMSUNG M04",
+      "SAMSUNG M12",
+      "SAMSUNG M13",
+      "SAMSUNG M13 5G",
+      "SAMSUNG M13(INDIA)",
+      "SAMSUNG M23 5G",
+      "SAMSUNG M32 5G",
+      "SAMSUNG M33 5G",
+      "SAMSUNG F02S",
+      "SAMSUNG F12",
+      "SAMSUNG F13",
+      "SAMSUNG F23 5G",
+      "HUAWEI NOVA Y61",
+      "ENJOY 50Z",
+      "HONOR X5",
+      "HONOR X5 PLUS",
+      "HONOR X6",
+      "HONOR X6A",
+      "HONOR X8 5G",
+      "HONOR PLAY 20",
+      "HONOR PLAY 30",
+      "HONOR PLAY 40",
+      "HONOR PLAY 40C",
+      "HONOR PLAY 6C",
+      "HONOR 70 LITE",
+      "TECNO Pop 5 LTE",
+      "SPARK GO",
+      "SPARK GO 2020",
+      "SPARK GO 2023",
+      "SPARK 6 GO",
+      "SPARK 7",
+      "SPARK10 4G",
+      "5G",
+      "SPARK 10C",
+      "POP 7",
+      "POP 7 PRO",
+      "INFINIX HOT 10i",
+      "HOT 11",
+      "HOT 12i",
+      "HOT 20i",
+      "HOT 20 5G",
+      "HOT 30i",
+      "Smart 6",
+      "Smart 6 HD",
+      "Smart 7 HD",
+      "MOTO E13",
+      "MOTO E22"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V34",
+    "title": "SAMSUNG A14 4G",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A14 4G(5G)",
+      "SAMSUNG M14 5G",
+      "SAMSUNG F14 5G",
+      "JUMP 3"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V35",
+    "title": "SAMSUNG A15",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A15",
+      "SAMSUNG A24 4G",
+      "SAMSUNG M34 5G",
+      "SAMSUNG F34"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V36",
+    "title": "SAMSUNG A22 5G",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A22 5G",
+      "SAMSUNG F42 5G"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V37",
+    "title": "SAMSUNG A30",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A30",
+      "SAMSUNG A50",
+      "SAMSUNG A20",
+      "SAMSUNG A30S",
+      "SAMSUNG A50S",
+      "SAMSUNG M30",
+      "SAMSUNG M30S",
+      "SAMSUNG M10S",
+      "SAMSUNG M21",
+      "SAMSUNG M21 2021",
+      "SAMSUNG M21S",
+      "SAMSUNG M31",
+      "SAMSUNG M31 PRIME",
+      "SAMSUNG F41"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V38",
+    "title": "SAMSUNG A31",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A31",
+      "SAMSUNG M32",
+      "SAMSUNG F22",
+      "SAMSUNG A32 4G",
+      "SAMSUNG A22 4G",
+      "SAMSUNG M22",
+      "SAMSUNG A33 5G",
+      "VIVO Y100",
+      "T2(India)",
+      "IQOO Z7 5G",
+      "IQOO Z7S 5G"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V39",
+    "title": "SAMSUNG A34 5G",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A34 5G"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V40",
+    "title": "SAMSUNG A51",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A51",
+      "SAMSUNG A51 5G",
+      "SAMSUNG A52",
+      "SAMSUNG A52 5G",
+      "SAMSUNG A52S 5G",
+      "SAMSUNG A53 5G",
+      "SAMSUNG M31S",
+      "SAMSUNG S20FE",
+      "SAMSUNG S20 FE 5G",
+      "SAMSUNG S20 FE 2022",
+      "OPPO RENO 4 4G(5G)",
+      "RENO 4SE",
+      "RENO 4F",
+      "RENO 4 LITE",
+      "OPPO F17 PRO",
+      "OPPO A93 4G",
+      "RENO 5 5G ",
+      "Reno 7SE",
+      "OPPO A95",
+      "REALME  X7",
+      "REALME V15",
+      "REALME Q2 PRO",
+      "RENO 8",
+      "OPPO A96"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V41",
+    "title": "SAMSUNG A54 5G",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A54 5G",
+      "SAMSUNG S23 FE"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V42",
+    "title": "SAMSUNG A70",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A70",
+      "SAMSUNG A70S",
+      "SAMSUNG A90 5G",
+      "SAMSUNG A42 5G",
+      "SAMSUNG M42 5G",
+      "HUAWEI ENJOY 20",
+      "NOVA Y60",
+      "INFINX NOTE 12",
+      "INFINX NOTE 12(2023)",
+      "INFINX NOTE12 G96",
+      "INFINX NOTE12 pro",
+      "INFINX NOTE 12i 2022",
+      "HOT 20",
+      "ZERO 20"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V43",
+    "title": "SAMSUNG A71",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A71",
+      "SAMSUNG A73 5G",
+      "SAMSUNG A81",
+      "SAMSUNG A91",
+      "SAMSUNG M51",
+      "SAMSUNG M52 5G",
+      "SAMSUNG M53 5G",
+      "SAMSUNG M54 5G",
+      "SAMSUNG M62",
+      "SAMSUNG F54 5G",
+      "SAMSUNG F62",
+      "SAMSUNG S10 LITE",
+      "SAMSUNG NOTE 10 LITE",
+      "VIVO S15",
+      "VIVO S16E",
+      "VIVO V25E (LATAM)",
+      "VIVO V27E",
+      "VIVO T2 4G",
+      "IQOO 7",
+      "IQOO NEO 6 SE",
+      "REDMI NOTE 12 PRO 4G(5G)",
+      "REDMI NOTE 12 PRO+",
+      "REDMI NOTE 12 EXPLORER",
+      "REDMI K40 GAMING",
+      "REDMI K50 GAMING",
+      "XIAOMI POCO F4 GT",
+      "POCO F3 GT",
+      "POCO X5 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V44",
+    "title": "VIVO T2(CHINA)",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "VIVO T2(CHINA)",
+      "VIVO Y200",
+      "VIVO V29E",
+      "IQOO NEO 6",
+      "NEO 6 SE",
+      "NEO 6 CHINA",
+      "OPPO K11",
+      "ONE PLUS NORD 3",
+      "ONE PLUS NORD CE3",
+      "TECNO Camon 20",
+      "Camon 20 PRO 4G"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V45",
+    "title": "VIVO V15 PRO",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "VIVO V15 PRO",
+      "VIVO NEX 2",
+      "VIVO X27",
+      "VIVO S1 PRO CHINA",
+      "OPPO RENO 6.4",
+      "REDMI K20",
+      "REDMI K20 PRO",
+      "XIAOMI 9T",
+      "XIAOMI 9T PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V46",
+    "title": "VIVO V21",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "VIVO V21",
+      "VIVO V21 5G",
+      "VIVO V25 5G",
+      "VIVO V25E",
+      "VIVO S9E",
+      "VIVO S15E",
+      "HUAWEI ENJOY 20 PRO",
+      "ENJOY Z 5G",
+      "NOVA 8 SE",
+      "HONOR 30 YOUTH",
+      "VIVO T1 PRO 5G",
+      "VIVO T1 778",
+      "IQOO Z6 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V47",
+    "title": "VIVO Y01",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "VIVO Y01",
+      "VIVO Y02",
+      "VIVO Y02A",
+      "VIVO Y02S",
+      "VIVO Y02T",
+      "VIVO Y3S",
+      "VIVO Y11 2023",
+      "VIVO Y11S",
+      "VIVO Y12 2023",
+      "VIVO Y12S",
+      "VIVO Y12A",
+      "VIVO Y15S",
+      "VIVO Y16",
+      "VIVO Y17S",
+      "VIVO Y20",
+      "VIVO Y20I",
+      "VIVO Y20G",
+      "VIVO Y20A",
+      "VIVO Y21",
+      "VIVO Y21S",
+      "VIVO Y21T",
+      "VIVO Y21A",
+      "VIVO Y21G",
+      "VIVO Y22",
+      "VIVO Y22S",
+      "VIVO Y30 CHINA",
+      "VIVO Y31",
+      "VIVO Y31S 5G",
+      "VIVO Y32",
+      "VIVO Y33",
+      "VIVO Y33S",
+      "VIVO Y33S 5G",
+      "VIVO Y33T",
+      "VIVO Y33E",
+      "VIVO Y35",
+      "VIVO Y35M",
+      "VIVO Y35M+",
+      "VIVO Y36(CHINA)",
+      "VIVO Y36i",
+      "VIVO Y36M",
+      "VIVO Y51A",
+      "VIVO Y52 5G",
+      "VIVO Y52T 5G",
+      "VIVO Y52S",
+      "VIVO Y52S T1",
+      "VIVO Y51 2020 DEC",
+      "VIVO Y53S",
+      "VIVO Y55 5G",
+      "VIVO Y55S 5G",
+      "VIVO Y56 5G",
+      "VIVO Y72 5G",
+      "VIVO Y73T 5G",
+      "VIVO Y75 5G",
+      "VIVO Y75S 5G",
+      "VIVO Y76 5G",
+      "VIVO Y76S 5G",
+      "VIVO Y77 5G",
+      "VIVO Y77E",
+      "VIVO T1 5G",
+      "VIVO T1X",
+      "VIVO T1X 4G",
+      "VIVO T2X",
+      "VIVO T2X(INDIA)",
+      "IQOO U5",
+      "IQOO Z3",
+      "IQOO Z5X",
+      "IQOO Z6",
+      "IQOO Z6X",
+      "IQOO Z6 LITE",
+      "IQOO Z7i",
+      "REDMI 10 5G",
+      "REDMI 10 PRIME+ 5G",
+      "REDMI 11 PRIME",
+      "REDMI 10X 5G",
+      "REDMI 11 PRIME 5G",
+      "REDMI NOTE 11E",
+      "REDMI NOTE 11R",
+      "REDMI A1",
+      "REDMI A1+",
+      "REDMI A2",
+      "REDMI A2+",
+      "XIAOMI POCO M4 5G",
+      "POCO M5",
+      "POCO C50",
+      "POCO C51",
+      "ONE PLUS NORD N20 SE",
+      "ONE PLUS NORD N300 5G",
+      "XIAOMI 10 LITE",
+      "XIAOMI 10 YOUTH 5G"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V48",
+    "title": "VIVO Y3",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "VIVO Y3",
+      "VIVO Y11",
+      "VIVO Y12",
+      "VIVO Y12i",
+      "VIVO Y15",
+      "VIVO Y17",
+      "VIVO U10"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V49",
+    "title": "VIVO Y90",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "VIVO Y90",
+      "VIVO Y91",
+      "VIVO Y91i",
+      "VIVO Y91C",
+      "VIVO Y93",
+      "VIVO Y95",
+      "VIVO Y1S",
+      "OPPO A7",
+      "OPPO A7X",
+      "OPPO A5S",
+      "OPPO A12",
+      "OPPO A11K",
+      "REALME 3",
+      "SAMSUNG A10",
+      "SAMSUNG A10S",
+      "SAMSUNG M10",
+      "SAMSUNG M01S",
+      "SAMSUNG M20",
+      "VIVO Y93S",
+      "VIVO U1",
+      "VIVO Y97",
+      "IQOO Z3",
+      "IQOO Z3i",
+      "REALME Q",
+      "REALME Q YOUTH",
+      "REALME 2 PRO",
+      "REALME X YOUTH",
+      "REDMI 8",
+      "REDMI 8A",
+      "XIAOMI CC9"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V50",
+    "title": "VIVO S9",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "VIVO S9",
+      "VIVO S7",
+      "VIVO S7T",
+      "VIVO V20 PRO",
+      "VIVO S10",
+      "VIVO S10 Pro",
+      "VIVO S12",
+      "VIVO V23 5g"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V51",
+    "title": "XIAOMI 12 LITE",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "XIAOMI 12 LITE",
+      "XIAOMI  11 LITE",
+      "XIAOMI 11 LITE 5G",
+      "XIAOMI 11 LITE 5G NE",
+      "OPPO RENO7 PRO 5G",
+      "SAMSUNG A11",
+      "SAMSUNG M11",
+      "VIVO X50",
+      "VIVO X60",
+      "VIVO X70",
+      "MOTO G84"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V52",
+    "title": "XIAOMI 9X",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "XIAOMI 9X",
+      "XIAOMI 9 PRO",
+      "VIVO S1",
+      "VIVO S1 PRO",
+      "VIVO S1(INDIA)",
+      "VIVO Z1X",
+      "VIVO Y7S",
+      "VIVO Y9S",
+      "VIVO V17 RUSSIA",
+      "VIVO V17 NEO",
+      "IQOO 855",
+      "IQOO PRO",
+      "IQOO Z5",
+      "IQOO U3X",
+      "VIVO Y51 2020 SEPTEMBER",
+      "HUAWEI NOVA 5",
+      "NOVA 5 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V53",
+    "title": "荣耀X10（厚胶）",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "HONOR X10",
+      "ENJOY 20 PLUS",
+      "REDMI K30 PRO",
+      "REDMI NOTE10 PRO",
+      "REDMI NOTE11",
+      "REDMI K40S",
+      "REDMI K40游戏增强版",
+      "REDMI K50",
+      "REDMI K50 PRO",
+      "IQOO7",
+      "IQOO NEO5S",
+      "iQOO NEO6",
+      "REALME GT NEO3",
+      "HONOR PLAY 6T PRO",
+      "HONOR X8",
+      "IQOO NEO 6SE",
+      "VIVO Z6",
+      "IQOO Z6",
+      "REALME Q5",
+      "REALME GT2 PRO",
+      "OPPO K10",
+      "REALME Q3T",
+      "VIVO T2",
+      "REDMI K30 至尊纪念版",
+      "REDMI K50(5G电竞版",
+      "REDMI NOTE 11T",
+      "IQOO NEO5 SE",
+      "REDMI NOTE12 PRO",
+      "REDMI NOTE12 PRO+",
+      "OPPO K10X",
+      "HUAWEI NOVA 9Z",
+      "VIVO S16E",
+      "REDMI K60",
+      "REDMI K60 PRO",
+      "HONOR 80 GT",
+      "OPPO K11",
+      "XIAOMI BLACK SHARK 4S",
+      "XIAOMI BLACK SHARK S PRO",
+      "NZONE 50 PRO",
+      "REDMI K60至尊版",
+      "REALME 10 PRO",
+      "VIVO Y36 4G",
+      "VIVO S18E",
+      "ENJOY 70 PRO",
+      "HUAWEI NOVA12 SE",
+      "REDMI K50 Ultra",
+      "ONE PLUS ACE 3 V",
+      "OPPO K12X",
+      "REDMI K60E",
+      "REALME 13 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V54",
+    "title": "荣耀9X（厚胶）",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "HONOR 9X",
+      "HONOR 9X PRO",
+      "ENJOY 10 PLUS",
+      "NEX 双屏版",
+      "RENO 10"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V55",
+    "title": "荣耀X20SE",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "HONOR X20SE",
+      "HUAWEI NOVA 8SE 活力",
+      "NZONE S7 PRO",
+      "HONOR PlAY 5T PRO",
+      "OPPO A52",
+      "OPPO A53",
+      "OPPO A72",
+      "OPPO A92",
+      "OPPO A93(5G)",
+      "OPPO A93S",
+      "REALME Q2",
+      "REALME Q3",
+      "REALME Q3i",
+      "REALME V5",
+      "REALME V13",
+      "OPPO X5 PRO",
+      "HUAWEI NOVA 7SE",
+      "HONOR 30S",
+      "REDMI NOTE10 5G",
+      "OPPO K7X",
+      "OPPO K9X",
+      "NZONE S7 PRO+",
+      "HUAWEI NOVA 10Z",
+      "HUAWEI NOVA 7SE 活力版"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V56",
+    "title": "荣耀X20",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "HONOR X20",
+      "OPPO A11S",
+      "REALME 7i",
+      "REALME 7PRO",
+      "OPPO A92S",
+      "REALME X50",
+      "REALME V25",
+      "IQOO Z1",
+      "IQOOZ1X",
+      "IQOO NEO3",
+      "IQOO NEO5",
+      "VIVO K9S",
+      "REALME Q3S",
+      "OPPO A32",
+      "OPPO K10 PRO",
+      "ENJOY 50 PLUS",
+      "ONE PLUS ACE",
+      "REALME Q5 PRO",
+      "REALME GT2",
+      "REALME GT NEO 2",
+      "RENO 8 PRO",
+      "RENO 8 PRO+",
+      "VIVO S15",
+      "REDMI NOTE 11T PRO",
+      "IQOO NEO 5 活力版",
+      "ONE PLUS ACE PRO",
+      "REDMI NOTE 12 TURBO",
+      "REALME  GT NEO 5 SE",
+      "ENJOY 60 PRO",
+      "OPPO K10活力版",
+      "REDMI NOTE 13",
+      "REDMI NOTE 13 PRO",
+      "REDMI K70E",
+      "REDMI K70 PRO",
+      "REDMI NOTE 12T PRO",
+      "REDMI TURBO 3",
+      "OPPO A3",
+      "REDMI NOTE 14",
+      "REALME GT5",
+      "HONOR 300",
+      "HONOR GT",
+      "REDMI NOTE 13R PRO",
+      "NZONE 50 PRO",
+      "OPPO A3i PLUS",
+      "IQOO 5",
+      "HONOR X60",
+      "XIAOMI 11 YOUTH",
+      "IQOO 8",
+      "VIVO X70",
+      "VIVO X70T"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V57",
+    "title": "荣耀X30",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "HONOR X30",
+      "HONOR X40 GT",
+      "ENJOY PLAY 50 PLUS",
+      "HONOR PLAY 8T",
+      "ENJOY PLAY 60 PLUS",
+      "HONOR PLAY 9T",
+      "ENJOY PLAY 70 PLUS"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V58",
+    "title": "REDMI A5",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "REDMI A5",
+      "REDMI NOTE 14"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V59",
+    "title": "ENJOY PLAY 30 PLUS",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "ENJOY PLAY 30 PLUS",
+      "HONOR PLAY6T",
+      "麦芒11",
+      "ENJOY 50",
+      "ENJOY PLAY 40 PLUS",
+      "REDMI 12C",
+      "ENJOY 60",
+      "HONOR PLAY7T",
+      "ENJOY 60S",
+      "ENJOY 70",
+      "REDMI 13R",
+      "ENJOY 70S",
+      "REDMI 13C",
+      "ENJOY 70 PLUS",
+      "ENJOY 70M",
+      "Vivo Y37C",
+      "Vivo Y50 5G"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V60",
+    "title": "MATE50(厚胶)",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "MATE50",
+      "MATE50E",
+      "HONOR 80 PRO直屏版"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V61",
+    "title": "荣耀8X",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "HONOR 8X",
+      "ENJOY 9 PLUS"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V62",
+    "title": "P50",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "HUAWEI P50",
+      "HUAWEI P50 E"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V63",
+    "title": "XIAOMI 13",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "XIAOMI 13",
+      "XIAOMI 14"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V64",
+    "title": "NOVA11",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "NOVA11",
+      "NOVA12",
+      "NOVA12活力版",
+      "HONOR 90GT",
+      "NOVA13",
+      "OPPO A5(2025)",
+      "HONOR X70i",
+      "NOVA14",
+      "HONOR X60GT"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V65",
+    "title": "ENJOY 60X（大）",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "ENJOY 60X（大）"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V66",
+    "title": "Pura70",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "Pura70",
+      "Pura80"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V67",
+    "title": "荣耀X50i+",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "HONOR X50i+",
+      "HONOR X60i",
+      "HONOR PLAY 8T PRO 麦芒40",
+      "ENJOY 80 PRO",
+      "HONOR PLAY 9T PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V68",
+    "title": "荣耀X60（380厚胶）",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "HONOR X60"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V69",
+    "title": "REDMI 14R",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "REDMI 14R",
+      "REDMI 14C"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V70",
+    "title": "X200PRO Mini（380厚胶）",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "VIVO X200PRO Mini",
+      "FIND X8S",
+      "ONE PLUS 13T",
+      "VIVO S30 PRO Mini"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V71",
+    "title": "Magic7",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "MAGIC 7",
+      "HONOR GT PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V72",
+    "title": "XIAOMI 15（380厚胶）",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "XIAOMI 15"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V73",
+    "title": "FindX8",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "FIND X8",
+      "RENO 13",
+      "FIND X8S+",
+      "OPPO A6 PRO",
+      "FIND X9"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V74",
+    "title": "IQOO13",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IQOO 13",
+      "IQOO 12",
+      "FIND X8 Ultra",
+      "ONE PLUS ACE 5 至尊版",
+      "OPPO A6 GT",
+      "OPPO A6 MAX"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V75",
+    "title": "IQOO13(解锁玻璃）",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IQOO 13",
+      "IQOO NEO 9S PRO+",
+      "IQOO NEO10 PRO+"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V76",
+    "title": "Mate70(380厚胶）",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "HUAWEI MATE 70"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V77",
+    "title": "S21 FE",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG S21FE"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V78",
+    "title": "S21",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG S21"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V79",
+    "title": "S21+",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG S21 PLUS"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V80",
+    "title": "S22+/S23+",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG S22 PLUS",
+      "SAMSUNG S23 PLUS"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V81",
+    "title": "S22/S23",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG S22",
+      "SAMSUNG S23"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V82",
+    "title": "S24",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG S24",
+      "SAMSUNG S25"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V83",
+    "title": "S24+",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG S24 PLUS",
+      "SAMSUNG S25 PLUS"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V84",
+    "title": "S24 ULTRA",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG S24 ULTRA"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V85",
+    "title": "S25 ULTRA",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG S25 ULTRA"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V86",
+    "title": "Vivo S20(解锁玻璃）",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "Vivo S20",
+      "Vivo X200s",
+      "Vivo S30"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V87",
+    "title": "REDMI K80（解锁玻璃）",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "REDMI K80",
+      "REDMI K80 PRO",
+      "REDMI TURBO4",
+      "REDMI K70",
+      "REDMI K70 至尊版"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V88",
+    "title": "IQOONEO10（解锁玻璃）",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "IQOO NEO 10",
+      "IQOO NEO 10 PRO",
+      "ONE PLUS ACE 5",
+      "ONE PLUS ACE 5 PRO",
+      "REALME NEO 7",
+      "REALME GT7",
+      "ONE PLUS ACE 5 竞速版",
+      "IQOO NEO 10 PRO+",
+      "REALME NEO 7 TURBO",
+      "REALME GT6"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V89",
+    "title": "Pura X（380厚胶）",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "Pura X"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V90",
+    "title": "ENJOY PLAY 60",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "ENJOY PLAY 60",
+      "ENJOY PLAY 60M"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V91",
+    "title": "Reno14",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "Reno14"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V92",
+    "title": "Reno14 PRO",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "Reno14 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V93",
+    "title": "荣耀400",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "HONOR 400",
+      "HONOR 400 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V94",
+    "title": "REDMI K80至尊版(解锁玻璃)",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "REDMI K80至尊版(解锁玻璃)",
+      "REDMI K80 Ultra",
+      "REDMI TURBO 4 PRO",
+      "REDMI NOTE15 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V95",
+    "title": "荣耀X70(380厚胶)",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "HONOR X70(380厚胶)"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V96",
+    "title": "XIAOMI 17PRO(解锁玻璃+280胶）",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "XIAOMI 17PRO(解锁玻璃+280胶）",
+      "XIAOMI 17"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V97",
+    "title": "XIAOMI 17PROMAX(解锁玻璃+280胶）",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "XIAOMI 17PROMAX(解锁玻璃+280胶）"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V98",
+    "title": "REDMI 15C",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "REDMI 15C"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO V99",
+    "title": "REDMI 15 5G",
+    "category": "UNIPRO #2 VELA TEMPERED GLASS",
+    "mobiles": [
+      "REDMI 15 5G"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P01",
+    "title": "R17",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "ONE PLUS 6T",
+      "ONE PLUS 7",
+      "SAMSUNG A30",
+      "SAMSUNG A50",
+      "OPPO A7X",
+      "OPPO F9",
+      "VIVO IQOO PRO",
+      "OPPO K1",
+      "OPPO K5",
+      "HUAWEI NOVA5",
+      "HUAWEI  NOVA 5PRO",
+      "OPPO R15X",
+      "OPPO R17PRO",
+      "OPPO R19",
+      "OPPO REALME X2",
+      "OPPO REALME X YOUTH",
+      "VIVO X21S",
+      "VIVO X23",
+      "VIVO X23幻彩版",
+      "HUAWEI ENJOY 9",
+      "REDMI 7",
+      "REDMI NOTE 7",
+      "REDMI NOTE 7 PRO",
+      "REDMI NOTE 8",
+      "XIAOMI 9",
+      "XIAOMI 9X",
+      "XIAOMI CC9",
+      "XIAOMI CC9 MEITU EDITION",
+      "SAMSUNG A10",
+      "SAMSUNG A10S",
+      "SAMSUNG A20",
+      "SAMSUNG A40S",
+      "OPPO RENO Z",
+      "VIVO IQOO",
+      "OPPO REALME 3 PRO",
+      "OPPO REALME 5 PRO",
+      "SAMSUNG A22 4G",
+      "OPPO REALME 2 PRO",
+      "SAMSUNG A31",
+      "REDMI A2+",
+      "REDMI 8",
+      "OPPO A33 5G",
+      "VIVO Y9S",
+      "VIVO Y3S",
+      "HUAWEI Y7 2019",
+      "VIVO Y11",
+      "VIVO Y15",
+      "VIVO S1 INTERNATIONAL",
+      "VIVO S1 PRO INTERNATIONAL",
+      "REDMI 8A",
+      "VIVO Y7S",
+      "VIVO Y12 (OLD VERSION)",
+      "SAMSUNG M31",
+      "VIVO Y3",
+      "SAMSUNG M30",
+      "SAMSUNG M21",
+      "OPPO R17"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P02",
+    "title": "HONOR X30",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "HONOR X30",
+      "HUAWEI X9",
+      "HUAWEI X7C",
+      "HUAWEI X7B",
+      "HONOR X40GT",
+      "HONOR X40GT RACING EDITION"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P03",
+    "title": "MATE 20X",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "HUAWEI MATE 20X",
+      "HUAWEI ENJOY MAX",
+      "HUAWEI ENJOY 8X MAX"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P04",
+    "title": "NOVA 7SE",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "HUAWEI HONOR 30S",
+      "VIVO Y70T",
+      "VIVO Y50T",
+      "NOVA 7SE"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P05",
+    "title": "REDMI NOTE 9 PRO",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A71",
+      "SAMSUNG A72",
+      "HUAWEI P STMRT 2021",
+      "HUAWEI ENJOY 20SE",
+      "MI POCO X3",
+      "MI POCO X3 NFC",
+      "10XLITE",
+      "MI 13T",
+      "MI POCO X3 PRO",
+      "SAMSUNG F62",
+      "SAMSUNG M51",
+      "IQOO Z5",
+      "REDMI NOTE 11 PRO",
+      "MI 11T",
+      "MI 11T PRO",
+      "REDMI K40 PRO EXTERNAL ORDER",
+      "REDMI K40 GM EXTERNAL ORDER",
+      "REDMI K50 GAMING EDITION",
+      "M52 5G",
+      "M62",
+      "IQOO NEO5S",
+      "MI POCO X4 PRO",
+      "SAMSUNG A73",
+      "VIVO Y77",
+      "POCO F4 GT",
+      "REDMI NOTE 11E PRO",
+      "REDMI NOTE10 LITE",
+      "MI POCO X3 GT",
+      "MI POCO F4",
+      "MI POCO X4 GT",
+      "HUAWEI Y90",
+      "SAMSUNG M53",
+      "REDMI K60E",
+      "REDMI NOTE 9S",
+      "MOTO EDGE 30 PRO",
+      "MOTO EDGE 20 PRO",
+      "ONE PLUS ACE 2V",
+      "SAMSUNG A42 5G",
+      "XIAOMI 12T PRO",
+      "XIAOMI 12T",
+      "OPPO K11X",
+      "MI POCO F5",
+      "MI POCO X5 PRO 5G",
+      "CAMON 20",
+      "REDMI NOTE 11 PRO+",
+      "VIVO V27E 4G",
+      "OPPO F5 PRO",
+      "MOTO G 5G",
+      "REDMI NOTE 9 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P06",
+    "title": "NOVA 11",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "HONOR 90GT",
+      "NOVA 12",
+      "NOVA 12 ACTIVE",
+      "ENJOY 70PRO",
+      "NOVA 13",
+      "XIAOMI 14T",
+      "HONOR 90 LITE",
+      "NOVA 12I",
+      "MAGIC 7 (NO FINGERPRINT UNLOCK)",
+      "NOVA 11"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P07",
+    "title": "A11X",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "ENJOY 20",
+      "ENJOY 20 PLAY",
+      "PLAY 5T ACTIVE",
+      "OPPO A8",
+      "OPPO A55 5G",
+      "VIVO Y52S",
+      "VIVO Y53S",
+      "VIVO Y16",
+      "VIVO Y31S",
+      "OPPO A11",
+      "OPPO A11X",
+      "OPPO A77",
+      "REDMI 10X 5G",
+      "REDMI 10X PRO 5G",
+      "REALME 5",
+      "SAMSUNG A70",
+      "SAMSUNG A70S",
+      "SAMSUNG A20S",
+      "REALME C11",
+      "SAMSUNG A02",
+      "SAMSUNG A02S",
+      "REALME C12",
+      "REALME C15",
+      "SAMSUNG A12",
+      "SAMSUNG A32 5G",
+      "REALME V11",
+      "REDMI 9T",
+      "IQOO Z3",
+      "OPPO A15",
+      "IQOO U3",
+      "OPPO A15S",
+      "VIVO Y31 2021",
+      "REALME 6I",
+      "SAMSUNG A42",
+      "SAMSUNG A31S",
+      "SAMSUNG A90S",
+      "IQOO U1X",
+      "IQOO U3X",
+      "MAIMANG 10SE",
+      "REALME 10 5G",
+      "REDMI 9",
+      "REDMI 9A",
+      "REDMI 9C",
+      "XIAOMI 10 YOUTH",
+      "SAMSUNG A22 5G",
+      "SAMSUNG M02S",
+      "VIVO Y20S",
+      "IQOO Z5X",
+      "IQOO T1X",
+      "SAMSUNG A56",
+      "VIVO Y55S",
+      "SAMSUNG A03 CORE",
+      "SAMSUNG A13 4G",
+      "SAMSUNG A13 5G",
+      "VIVO Y54S",
+      "VIVO Y74S",
+      "VIVO Y72",
+      "VIVO Y76S",
+      "VIVO Y33S",
+      "SAMSUNG A03",
+      "SAMSUNG A03S",
+      "SAMSUNG M12",
+      "OPPO A16",
+      "IQOO U5",
+      "HUAWEI NZONE S7",
+      "VIVO Y32",
+      "REALME C21Y",
+      "REALME C21",
+      "REDMI NOTE 11E",
+      "REDMI 10A",
+      "VIVO Y20I",
+      "SAMSUNG A12S",
+      "VIVO Y17",
+      "VIVO Y12A",
+      "REALME V23",
+      "OPPO A55S",
+      "REALME Q5I",
+      "VIVO Y03",
+      "SAMSUNG A23 4G",
+      "SAMSUNG A23 5G",
+      "VIVO Y02S",
+      "VIVO Y76",
+      "VIVO Y22",
+      "VIVO Y22S",
+      "VIVO Y35",
+      "OPPO A31",
+      "REALME C35",
+      "REDMI A1",
+      "SAMSUNG M23",
+      "MI POCO M5 4G",
+      "SAMSUNG A04S",
+      "SAMSUNG A04",
+      "REALME 5I",
+      "IQOO Z7I",
+      "REALME C33",
+      "REALME C25",
+      "REALME C30",
+      "VIVO Y12S",
+      "VIVO Y21",
+      "VIVO Y21S",
+      "VIVO Y20",
+      "OPPO A5 2020",
+      "OPPO A9 2020",
+      "VIVO Y12 (2020)",
+      "OPPO A78 5G",
+      "OPPO A1X",
+      "OPPO A1 ACTIVE",
+      "VIVO Y27",
+      "VIVO Y17S",
+      "OPPO F12",
+      "SPARK 4",
+      "VIVO Y30 5G",
+      "OPPO A38",
+      "REDMI A2+",
+      "SAMSUNG M02",
+      "SAMSUNG M13",
+      "SAMSUNG M33 5G",
+      "OPPO A17",
+      "HUAWEI NZONE S7 PRO+",
+      "HUAWEI X8 5G",
+      "SAMSUNG A04 CORE",
+      "MOTO E7 PLUS (SLIGHTLY SHORT)",
+      "MOTO G50 5G (SLIGHTLY SHORT)",
+      "HONOR X5",
+      "HONOR X5+",
+      "HONOR X6"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P08",
+    "title": "P70",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "FIND X8",
+      "FIND X8S",
+      "HUAWEI P70",
+      "VIVO X200 PRO MINI"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P09",
+    "title": "REDMI 12C",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "REDMI 10C",
+      "REDMI 13C",
+      "REDMI 12C"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P10",
+    "title": "RENO 3",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "OPPO K7",
+      "ENJOY Z",
+      "VIVO S6",
+      "OPPO A91",
+      "VIVO V20SE",
+      "VIVO V20",
+      "VIVO S7E",
+      "VIVO Y73S",
+      "VIVO S10E",
+      "VIVO Y71T",
+      "ENJOY 20 PRO",
+      "SAMSUNG M22",
+      "SAMSUNG M32",
+      "VIVO V21E",
+      "OPPO F15",
+      "VIVO V21 4G",
+      "VIVO V21 5G",
+      "OPPO RENO 3"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P11",
+    "title": "RENO2",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "OPPO RENO 2F",
+      "OPPO RENO 2"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P12",
+    "title": "HONOR 20 YOUTH",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "ENJOY 10S",
+      "ENJOY 10E",
+      "HONOR PLAY 4T PRO",
+      "SAMSUNG A32 4G",
+      "ENJOY 20E",
+      "HONOR 20 YOUTH"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P13",
+    "title": "NOVA7",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "RENO ACE 2",
+      "HONOR 30",
+      "REALME 7 PRO",
+      "REALME 6",
+      "OPPO K7X",
+      "RENO 7 PRO",
+      "SAMSUNG A11",
+      "REALMEQ2PRO",
+      "NOVA 7"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P14",
+    "title": "NOVA5I",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "HUAWEI P40LITE",
+      "NOVA 7I",
+      "NOVA 6 SE",
+      "NOVA 5I"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P15",
+    "title": "HONOR PLAY4 PRO",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "HONOR PLAY 4 PRO",
+      "VIVO V30",
+      "VIVO V30PRO",
+      "NOVA 6",
+      "REALME 6 PRO",
+      "REALME X"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P16",
+    "title": "XIAOMI 10 YOUTH",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "REDMI 10X 5G",
+      "REDMI 10X PRO 5G",
+      "VIVO Y52S",
+      "IQOO Z3",
+      "OPPO A35",
+      "VIVO Y31S",
+      "IQOO U5",
+      "VIVO Y30G",
+      "OPPO A97",
+      "REDMI NOTE 11R",
+      "XIAOMI 10 YOUTH"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P17",
+    "title": "IQOO3",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "VIVO X30",
+      "VIVO X30 PRO",
+      "VIVO S5",
+      "VIVO V17 (INDIAN VERSION)",
+      "VIVO V19 (SINGLE HOLE) WITH DUAL HOLE VERSION",
+      "IQOO 3"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P18",
+    "title": "IQOOU1",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "VIVO Z5X",
+      "REDMI NOTE9 5G",
+      "VIVO Y51S",
+      "VIVO Y30 (INTERNATIONAL)",
+      "VIVO Y50",
+      "VIVO Y70S",
+      "REDMI 10X 4G",
+      "REDMI NOTE 9T 5G",
+      "IQOO U1"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P19",
+    "title": "RENO5",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "REALME GT",
+      "RENO 5",
+      "RENO 5K",
+      "OPPO A94",
+      "OPPO A95 5G",
+      "RENO 6",
+      "REALME GT NEO",
+      "REALME GT MASTER EDITION",
+      "OPPO K9",
+      "REALME Q3 PRO",
+      "REALME GT NEO 2T",
+      "OPPO K9 PRO",
+      "RENO 7",
+      "RENO 6Z",
+      "ONE PLUS NORD2",
+      "OPPO A78 4G",
+      "ONE PLUS NORD CE 2",
+      "REALME GT MASTER",
+      "RENO 5F"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P20",
+    "title": "S7",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "VIVO S7",
+      "VIVO V20 PRO",
+      "VIVO S9",
+      "VIVO S10",
+      "VIVO S10 PRO",
+      "VIVO S12",
+      "VIVO V23 5G"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P21",
+    "title": "ENJOY 30 PLUS",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "HUAWEI X7",
+      "ENJOY 70",
+      "ENJOY 60",
+      "REALME C53",
+      "NOVA Y70",
+      "SAMSUNG A05",
+      "SAMSUNG A05S",
+      "SAMSUNG A06",
+      "REALME NOTE 50",
+      "REALME NOTE 60",
+      "ENJOY 70S",
+      "REALME C63",
+      "MI POCO C40",
+      "MI POCO C65",
+      "SAMSUNG A06S",
+      "ENJOY 30 PLUS"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P22",
+    "title": "S1",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "RENO ZOOM",
+      "RENO 2Z",
+      "ENJOY 10 PLUS",
+      "HONOR 9X",
+      "HONOR 9X PRO",
+      "HUWEI Y9P-2019",
+      "REALME X",
+      "VIVO Y9S",
+      "OPPO F11 PRO",
+      "VIVO V15",
+      "OPPO K3",
+      "HUAWEI Y9 PRIME 2019",
+      "HUAWEI PRIME Z"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P23",
+    "title": "RENO4",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "RENO 4 LITE",
+      "RENO 4"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P24",
+    "title": "HONOR 10 YOUTH",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "HONOR 20I",
+      "ENJOY 9S",
+      "HUAWEI Y6-2019",
+      "HUAWEI Y7 PRIME 2019",
+      "HONOR 10 YOUTH"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P25",
+    "title": "NOVA3",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "HONOR PLAY",
+      "NOVA 3I",
+      "NOVA 3",
+      "HUAWEI MATE 20 LITE"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P26",
+    "title": "HONOR 20",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "NOVA 5T",
+      "NOVA 5Z",
+      "NOVA 5I PRO",
+      "HUAWE MATE 30 LITE",
+      "SAMSUNG A60",
+      "HONOR 20 PRO",
+      "HONOR 20S",
+      "HONOR 20"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P27",
+    "title": "R15",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "XIAOMI 8 YOUTH",
+      "OPPO A3",
+      "REDMI NOTE 6",
+      "OPPO F7",
+      "OPPO R15"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P28",
+    "title": "A9",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "REDMI NOTE 8 PRO",
+      "OPPO A9X",
+      "RENO ACE",
+      "VIVO Y5S",
+      "REALME X2 PRO",
+      "OPPO F11",
+      "REDMI NOTE 9 4G",
+      "XIAOMI POCO M3",
+      "XIAOMI POCO C3",
+      "VIVO Y19",
+      "VIVO V23E",
+      "ONE PLUS 7T",
+      "VIVO Z5I",
+      "SAMSUNG A15 4G",
+      "SAMSUNG A15 5G",
+      "SAMSUNG A25",
+      "OPPO A9"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P29",
+    "title": "HONOR PLAY 3",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "ENJOY 10",
+      "HONOR PLAY 4T",
+      "HUAWEI P40 LITE",
+      "VIVO Y7P",
+      "VIVO V20",
+      "NOVA 4"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P30",
+    "title": "A52",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "OPPO A32",
+      "OPPO A52",
+      "OPPO A72",
+      "OPPO A92",
+      "REALME V5",
+      "REALME 7",
+      "REALME 7I",
+      "OPPO A54",
+      "REALME V13",
+      "SAMSUNG A21",
+      "SAMSUNG A21S",
+      "OPPO A53",
+      "ONE PLUS NORD N200",
+      "OPPO A74",
+      "REALME 8 PRO",
+      "REALME 8 4G",
+      "REALME 8 5G",
+      "OPPO A36",
+      "OPPO K9X",
+      "OPPO A93",
+      "OPPO A93S",
+      "REALME 9I",
+      "REALME 9 5G",
+      "A11S",
+      "RENO 6 LITE",
+      "NARZO 30",
+      "NARZO 30 PRO",
+      "REALME 8I",
+      "MOTO NARZO 50",
+      "OPPO A96 4G INTERNATIONAL SINGLE HOLE",
+      "RENO 5 LITE",
+      "OPPO A55 4G",
+      "REALME C17"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P31",
+    "title": "X21",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "VIVO V9",
+      "VIVO X21I",
+      "VIVO Y85",
+      "VIVO Z1",
+      "VIVO Z3X",
+      "VIVO X21"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P32",
+    "title": "8X",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "HUAWEI Y9-2019",
+      "ENJOY 9 PLUS",
+      "HUAWEI Y8S",
+      "HONOR 9X LITE",
+      "HONOR 8X"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P33",
+    "title": "IQOO5",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "VIVO X50",
+      "IQQO 5"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P34",
+    "title": "IQOO7",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "REDMI K40",
+      "REDMI K40 PRO",
+      "IQOO NEO 5",
+      "VIVO S18E",
+      "MI POCO F3",
+      "VIVO T1",
+      "IQOO NEO5 SE",
+      "REDMI K40S",
+      "BLACK SHARK 5 PRO",
+      "IQOO NEO6",
+      "IQOO NEO6 SE",
+      "VIVO S15",
+      "REDMI K40 ENHANCED VERSION",
+      "REDMI NOTE 12 TURBO",
+      "IQOO Z6",
+      "ONE PLUS  ACE PRO",
+      "REDMI K60",
+      "SHARK 5 PRO",
+      "SHARK 4 PRO",
+      "IQOO Z7",
+      "IQOO Z7X",
+      "GT NEO5",
+      "BLACK SHARK 4",
+      "BLACK SHARK 4 PRO",
+      "REDMI K60 ULTIMATE",
+      "REDMI K60 PRO",
+      "OPPO K11",
+      "REDMI K40 GAMING",
+      "HONOR 80 PRO DIRECT",
+      "OPPO K12X",
+      "VIVO Y100",
+      "NOVA 12 SE",
+      "VIVO Y100I",
+      "SAMSUNG NOTE 20",
+      "IQOO 7"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P35",
+    "title": "S24+",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG S24 PLUS"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P36",
+    "title": "VIVO S20",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "VIVO X200S",
+      "FIND N5",
+      "VIVO S20"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P37",
+    "title": "ENJOY 20",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "HONOR PLAY 5T",
+      "HONOR PLAY 5T VITALITY EDITION",
+      "ENJOY 20"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P38",
+    "title": "REDMI NOTE 10 5G",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "NOVA 8 SE ACTIVE",
+      "HONOR X20 SE",
+      "NOVA 10Z",
+      "HUAWEI NZONE S7 PRO",
+      "REDMI 10",
+      "XIAOMI 12 LITE",
+      "REDMI NOTE 11 SE",
+      "MOTO EDGE 30",
+      "XIAOMI POCO M3 PRO",
+      "MOTO G53 5G",
+      "MOTO G62"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P39",
+    "title": "HONOR X20",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "NOVA 8I",
+      "ENJOY 50 PLUS",
+      "HONOR PLAY 5 VITALITY",
+      "NOVA 9Z",
+      "HONOR 50 LITE",
+      "HONOR X20"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P40",
+    "title": "HONOR X10",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "ENJOY 20PLUS",
+      "VIVO Y9A",
+      "SAMSUNG A80"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P41",
+    "title": "NOVA 4E",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "HUAWEI P30 LITE",
+      "NOVA 4E"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P42",
+    "title": "HONOR PLAY4",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "MAIMANG 9",
+      "HONOR PLAY 4"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P43",
+    "title": "REALME X50",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "VIVO A92S",
+      "RENO 3 PRO INDIA",
+      "REALME X50"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P44",
+    "title": "IQOO NEO3",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "VIVO Z6",
+      "IQOO Z1",
+      "IQOO Z1X",
+      "IQOO NEO 5 VITALITY EDITION",
+      "IQOO NEO3"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P45",
+    "title": "IQOO U5X",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "OPPO A57 4G",
+      "OPPO A57 5G",
+      "REALME V20",
+      "ENJOY 50Z",
+      "OPPO A58X",
+      "HONOR PLAY 5",
+      "IQOO U5X"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P46",
+    "title": "ONEPLUS 8T",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "ONE PLUS 9",
+      "ONE PLUS 9R",
+      "REALME X7 PRO",
+      "ONE PLUS ACE RACING EDITION",
+      "ONE PLUS 8T"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P47",
+    "title": "P50",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "HUAWEI P50E",
+      "SAMSUNG A54"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P48",
+    "title": "GTNEO2",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "REALME 9 PRO",
+      "OPPO K10",
+      "REALME GT 2",
+      "REALME Q5",
+      "REALME Q5 PRO",
+      "OPPO K10 ACTIVE",
+      "REALME 9 PRO PLUS",
+      "REALME Q3S",
+      "REALME GT NEO 2",
+      "ONE PLUS 9RT",
+      "OPPO K9S",
+      "REALME V25"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P49",
+    "title": "REDMI NOTE 10 PRO",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "MI POCO M4 PRO 5G",
+      "RENO 8 PRO+",
+      "REDMI NOTE 11 5G",
+      "REDMI NOTE 12 T PRO",
+      "REDMI NOTE 10 PRO MAX",
+      "ONE PLUS  ACE 3V",
+      "REALME 12+",
+      "OPPO K12",
+      "REDMI NOTE 11T PRO",
+      "REDMI NOTE 10 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P50",
+    "title": "HONOR X10 MAX",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "HONOR X30 MAX",
+      "HONOR X10 MAX"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P51",
+    "title": "RENO",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "VIVO X27",
+      "VIVO NEX 2",
+      "REDMI K20",
+      "REDMI K20 PRO",
+      "XIAOMI MIX 3",
+      "VIVO S1 PRO",
+      "MAGIC 2",
+      "XIAOMI 9T",
+      "VIVO V17PRO",
+      "RENO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P52",
+    "title": "ENJOY 50",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "HONOR PLAY 7T",
+      "ENJOY 50"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P53",
+    "title": "MATE 50",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "IQOO Z7",
+      "REDMI NOTE 12 PRO",
+      "HONOR 80GT",
+      "NOVA 10SE",
+      "HUAWEI MATE 60",
+      "REDMI K70",
+      "REDMI TURBO 3",
+      "RENO 11F",
+      "REDMI NOTE 13",
+      "REDMI NOTE 13 PRO",
+      "XIAOMI POCO X6",
+      "OPPO A58 4G",
+      "MI POCO X6 PRO",
+      "MI POCO M6 PRO",
+      "RENO 12F",
+      "MI POCO F6",
+      "MI POCO F6 PRO",
+      "REDMI K80",
+      "REDMI K80 PRO (NO FINGERPRINT UNLOCK)",
+      "REDMI TURBO 4",
+      "HUAWEI MATE 50"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P54",
+    "title": "P30",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "XIAOMI PLAY",
+      "HUAWEI P30"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P55",
+    "title": "K10 PRO",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "RENO 8 PRO (CHINA)",
+      "OPPO K10 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P56",
+    "title": "S9E",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "VIVO S15E",
+      "VIVO S9E"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P57",
+    "title": "IQOO 9",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "IQOO NEO 7",
+      "IQOO 10",
+      "IQOO NEO 8",
+      "REDMI 12 (SLIGHTLY SHORTER TOP AND BOTTOM)",
+      "IQOO NEO 7 RACING",
+      "IQOO 9"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P58",
+    "title": "HONOR X30I",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "HUAWEI X8 4G",
+      "HONOR X40I",
+      "ENJOY 50 PRO",
+      "HONOR PLAY 7T PRO",
+      "HONOR X30I"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P59",
+    "title": "SAM A51",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG S20FE ",
+      "SAMSUNG A52",
+      "REDMI NOTE 10 4G",
+      "SAMSUNG A52S",
+      "SAMSUNG A53",
+      "REDMI NOTE 10S",
+      "REDMI NOTE 11 4G INTERNATIONAL VERSION",
+      "MI POCO M5S",
+      "SAMSUNG M31S",
+      "REDMI NOTE 12S",
+      "MI POCO M4 PRO 4G",
+      "REDMI NOTE 11S",
+      "MOTO G82"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P60",
+    "title": "SAMSUNG S21+",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "REDMI K50 PRO",
+      "REALME GT NEO 3",
+      "BLACK SHARK 5RS",
+      "BLACK SHARK 5",
+      "HONOR PLAY 6T PRO",
+      "REDMI K50",
+      "ONE PLUS ACE",
+      "REDMI K50 ULTIMATE",
+      "REDMI NOTE 11T PRO+",
+      "REDMI K70 PRO",
+      "REDMI K70E",
+      "OPPO A3 5G",
+      "HONOR 300",
+      "SAMSUNG S21 PLUS"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P61",
+    "title": "XIAOMI 11 LITE",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "XIAOMI 11 YOUTH EDITION",
+      "XIAOMI 11 LITE"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P62",
+    "title": "XIAOMI 13",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "XIAOMI 14",
+      "MOTO EDGE 30 NEO",
+      "XIAOMI 15"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P63",
+    "title": "MOTO G22",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "MOTO E32",
+      "MOTO G22"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P64",
+    "title": "MOTO G13",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "MOTO G23",
+      "MOTO G53",
+      "MOTO G31",
+      "MOTO G14",
+      "MOTO G13"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P65",
+    "title": "MOTO G9",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "MOTO G10",
+      "MOTO E7 PLUS",
+      "MOTO G8 POWER LITE",
+      "MOTO E12",
+      "MOTO E22",
+      "MOTO G9"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P66",
+    "title": "K30S",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "XIAOMI 10T",
+      "XIAOMI 10T PRO",
+      "REDMI K30S"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P67",
+    "title": "HONOR X50I",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "IQOO Z8",
+      "VIVO Z8X",
+      "HONOR X50I"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P68",
+    "title": "SAMSUNG A34",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG A24",
+      "SAMSUNG A34"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P69",
+    "title": "S22+",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG S23FE",
+      "SAMSUNG S22 PLUS"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P70",
+    "title": "SAMSUNG A14",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "SAMSUNG M14",
+      "SAMSUNG A26",
+      "SAMSUNG A14"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P71",
+    "title": "X60",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "IQOO 8",
+      "VIVO X60",
+      "VIVO X60T",
+      "VIVO X70",
+      "VIVO X70T",
+      "MEIZU 20",
+      "XIAOMI 12 LITE",
+      "XIAOMI 12 YOUTH",
+      "MOTO G84",
+      "MEIZU 21"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P72",
+    "title": "Y97",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "VIVO Y97",
+      "VIVO Y93",
+      "VIVO Y91",
+      "VIVO Y91I",
+      "VIVO Y91C",
+      "VIVO Z3",
+      "VIVO Z3I",
+      "OPPO A7",
+      "REDMI 8",
+      "OPPO A5S"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P73",
+    "title": "RENO4SE",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "RENO 4SE",
+      "RENO 7SE",
+      "OPPO A96 5G",
+      "REALME V15",
+      "RENO 8",
+      "RENO 7Z",
+      "RENO8Z",
+      "RENO 5Z",
+      "REALME 11 4G",
+      "REALME 10 4G"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P74",
+    "title": "HONOR 50SE",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "OPPO A79 5G",
+      "NOVA 9SE",
+      "IQOO 11",
+      "NOVA 10 YOUTH",
+      "MERIDIAN 20",
+      "VIVO Y78",
+      "ENJOY 60 PRO",
+      "VIVO Y36 5G",
+      "REDMI NOTE 12R 5G",
+      "OPPO A1 NEW",
+      "MI POCO X5",
+      "REDMI NOTE 12",
+      "IQOO 12",
+      "IQOO NEO 9",
+      "REALME 12",
+      "OPPO A98",
+      "IQOO Z9",
+      "IQOO Z9X",
+      "IQOO Z9 TURBO",
+      "VIVO X100S",
+      "IQOO 11S",
+      "OPPO S19",
+      " REALME 11 5G",
+      "REALME C55",
+      "REALME GT6 (MAY HAVE CONNECTION ISSUES)",
+      "ONE PLUS NORD N30",
+      "VIVO Y200 GT",
+      "OPPO A1S",
+      "OPPO A2",
+      "HONOR X60",
+      "IQOO 13",
+      "OPPO A3PRO (WITH CURVED SCREEN VERSION)",
+      "OPPO A3X",
+      "OPPO A60",
+      "VIVO Y19S",
+      "IQOO NEO 10 (CANNOT BE UNLOCKED WITH FINGERPRINT)",
+      "REALME C75",
+      "OPPO A3 ACTIVE",
+      "FIND X8 ULTER",
+      "HONOR 50SE"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P75",
+    "title": "IP 6/7/8",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 6",
+      "IPHONE 7",
+      "IPHONE 8"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P76",
+    "title": "IP 6P/7P/8P",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 6P",
+      "IPHONE 7P",
+      "IPHONE 8P"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P77",
+    "title": "IP X/XS/11 PRO",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE X",
+      "IPHONE XS",
+      "IPHONE 11 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P78",
+    "title": "IP XR/11",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE XR",
+      "IPHONE 11"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P79",
+    "title": "IP XS MAX/11 PRO MAX",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE XS MAX",
+      "IPHONE 11 PRO MAX"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P80",
+    "title": "IP 12 MINI",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 12 MINI"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P81",
+    "title": "IP 12/12 PRO",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 12",
+      "IPHONE 12 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P82",
+    "title": "IP 12 PRO MAX",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 12 PRO MAX"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P83",
+    "title": "IP 13 MINI",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 13 MINI"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P84",
+    "title": "IP 13/13 PRO/14",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 13",
+      "IPHONE 13 PRO",
+      "IPHONE 14",
+      "IPHONE SE4 2025",
+      "IPHONE 16E"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P85",
+    "title": "IP 13 PRO MAX/14 PLUS",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 13 PRO MAX",
+      "IPHONE 14 PLUS"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P86",
+    "title": "IP 14 PRO",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 14 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P87",
+    "title": "IP 14 PRO MAX",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 14 PRO MAX"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P88",
+    "title": "IP 15 PRO",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 15 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P89",
+    "title": "IP 15 PRO MAX",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 15 PRO MAX"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P90",
+    "title": "IP 15",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 15",
+      "IPHONE 16"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P91",
+    "title": "IP 15 PLUS",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 15 PLUS",
+      "IPHONE 16 PLUS"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P92",
+    "title": "IP 16 PRO",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 16 PRO"
+    ]
+  },
+  {
+    "boxCode": "UNIPRO-P93",
+    "title": "IP 16 PRO MAX",
+    "category": "UNIPRO PRIVACY TEMPERED GLASS",
+    "mobiles": [
+      "IPHONE 16 PRO MAX"
+    ]
+  }
+]
